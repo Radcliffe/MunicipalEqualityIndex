@@ -1,21 +1,24 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
+# Name:        scrape_hrc.py
+# Purpose:     Scrape data from the website of the Human Rights Campaign
+#               concerning the Municipal Equality Index
 #
-# Author:      Dave
+# Author:      David Radcliffe (dave@gotmath.com)
 #
 # Created:     26/11/2013
-# Copyright:   (c) Dave 2013
-# Licence:     <your licence>
+# Licence:     Public domain
 #-------------------------------------------------------------------------------
+#
+#  NOTE: Running this program will send hundreds of requests to other websites.
+#  Please make sure you know what you are doing.
 
 import urllib2
 import time
-import collections
 import lxml.html
 from geopy import geocoders
 g = geocoders.GoogleV3()
 
+# Thanks to http://stackoverflow.com/a/1518632/677398
 def most_common(lst):
     return max(set(lst), key=lst.count)
 
@@ -27,7 +30,7 @@ def get_url(cityno):
 
 def download_html():
     opener = urllib2.build_opener()
-    opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+    opener.addheaders = [('User-agent', 'Mozilla/5.0')] # This is a lie.
 
     for cityno in range(2, 294):
         response = opener.open(get_url(cityno))
@@ -48,7 +51,6 @@ def get_lat_lon(cityname):
         return '', ''
 
 def write_csv():
-    # download_html()
     output = []
     for cityno in range(2, 294):
         f = open(get_filename(cityno), 'rt')
@@ -69,12 +71,12 @@ def write_csv():
         city_total = doc.find_class('final')[-1].text_content()
         row.extend([str(state_total), str(county_total), city_total])
         output.append(','.join(row)+'\n')
-    f = open('MEI.csv', 'wt')
+    f = open('../Data/MEI.csv', 'wt')
     f.writelines(output)
     f.close()
 
 def aggregate_by_state():
-    f = open('MEI.csv', 'rt')
+    f = open('../Data/MEI.csv', 'rt')
     output = []
     lines = f.readlines()
     f.close()
@@ -90,23 +92,23 @@ def aggregate_by_state():
         outrow.append(str(sum(map(int,outrow[1:]))))
         output.append(','.join(outrow)+'\n')
 
-    f = open('MEI-states.csv', 'wt')
+    f = open('../Data/MEI-states.csv', 'wt')
     f.writelines(output)
     f.close()
 
 def validate_state_data():
 
-    f = open('MEI.csv', 'rt')
+    f = open('../Data/MEI.csv', 'rt')
     lines = f.readlines()
     f.close()
     city_rows = [line.strip().split(',') for line in lines]
 
-    f = open('MEI-states.csv', 'rt')
+    f = open('../Data/MEI-states.csv', 'rt')
     lines = f.readlines()
     f.close()
     state_rows = [line.strip().split(',') for line in lines]
 
-    g = open("../MEI_Codebook.csv", 'rt')
+    g = open("../Data/MEI_Codebook.csv", 'rt')
     lines = g.readlines()
     g.close()
     codes = [line.split(',') for line in lines]
@@ -135,16 +137,16 @@ def validate_state_data():
                 row[fields[i]-1] = expected
 
 
-    f = open('MEI-errors.csv', 'wt')
+    f = open('../Data/MEI-errors.csv', 'wt')
     f.writelines(output)
     f.close()
 
-    f = open('MEI-revised.csv', 'wt')
+    f = open('../Data/MEI-revised.csv', 'wt')
     f.writelines([','.join(row)+'\n' for row in city_rows])
     f.close()
 
 if __name__ == '__main__':
-    # download_html()
-    # write_csv()
-    # aggregate_by_state()
+    download_html()
+    write_csv()
+    aggregate_by_state()
     validate_state_data()

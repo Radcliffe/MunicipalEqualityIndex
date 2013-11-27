@@ -1,0 +1,15 @@
+Column,Category,Type,Issue,Points Available
+1,City,,City,
+2,State,,State,
+3,Non-Discrimination Laws,Sexual Orientation,Employment,3
+4,Non-Discrimination Laws,Sexual Orientation,Housing,3
+5,Non-Discrimination Laws,Sexual Orientation,Public Accommodations,3
+6,Relationship Recognition,Sexual Orientation,Marriage Equality,12
+7,Relationship Recognition,Sexual Orientation,Civil Unions,12
+8,Relationship Recognition,Sexual Orientation,Domestic Partnerships,12
+9,Municipal Services,Sexual Orientation,Enumerated Anti-Bullying School Policies,3
+10,Non-Discrimination Laws,Gender Identity,Employment,3
+11,Non-Discrimination Laws,Gender Identity,Housing,3
+12,Non-Discrimination Laws,Gender Identity,Public Accommodations,3
+13,Municipal Services,Gender Identity,Enumerated Anti-Bullying School Policies,3
+14,,,Final Score,60
