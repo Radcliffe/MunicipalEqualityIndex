@@ -1,0 +1,30 @@
+City,State,Category,Type,Issue,Expected,Actual
+Albuquerque,New Mexico,Municipal Services,Sexual Orientation,Enumerated Anti-Bullying School Policies,3,0
+Albuquerque,New Mexico,,,Final Score,21,18
+Cambridge,Massachusetts,Municipal Services,Sexual Orientation,Enumerated Anti-Bullying School Policies,0,3
+Cambridge,Massachusetts,Municipal Services,Gender Identity,Enumerated Anti-Bullying School Policies,0,3
+Cambridge,Massachusetts,,,Final Score,30,36
+Cathedral City,California,Relationship Recognition,Sexual Orientation,Domestic Partnerships,12,0
+Cathedral City,California,,,Final Score,48,36
+Eugene,Oregon,Municipal Services,Gender Identity,Enumerated Anti-Bullying School Policies,3,0
+Eugene,Oregon,,,Final Score,36,33
+Fayetteville,Arkansas,Municipal Services,Sexual Orientation,Enumerated Anti-Bullying School Policies,0,3
+Fayetteville,Arkansas,Municipal Services,Gender Identity,Enumerated Anti-Bullying School Policies,0,3
+Fayetteville,Arkansas,,,Final Score,0,6
+Fort Smith,Arkansas,Municipal Services,Sexual Orientation,Enumerated Anti-Bullying School Policies,0,3
+Fort Smith,Arkansas,Municipal Services,Gender Identity,Enumerated Anti-Bullying School Policies,0,3
+Fort Smith,Arkansas,,,Final Score,0,6
+Guerneville (Sonoma County),California,Relationship Recognition,Sexual Orientation,Domestic Partnerships,12,0
+Guerneville (Sonoma County),California,,,Final Score,48,36
+Hilo (Hawaii County),Hawaii,Relationship Recognition,Sexual Orientation,Civil Unions,12,0
+Hilo (Hawaii County),Hawaii,Relationship Recognition,Sexual Orientation,Domestic Partnerships,0,12
+Modesto,California,Municipal Services,Sexual Orientation,Enumerated Anti-Bullying School Policies,3,0
+Modesto,California,Municipal Services,Gender Identity,Enumerated Anti-Bullying School Policies,3,0
+Modesto,California,,,Final Score,48,42
+North Las Vegas,Nevada,Relationship Recognition,Sexual Orientation,Civil Unions,0,12
+North Las Vegas,Nevada,Relationship Recognition,Sexual Orientation,Domestic Partnerships,12,0
+Orono,Maine,Municipal Services,Sexual Orientation,Enumerated Anti-Bullying School Policies,3,0
+Orono,Maine,Municipal Services,Gender Identity,Enumerated Anti-Bullying School Policies,3,0
+Orono,Maine,,,Final Score,36,30
+Reno,Nevada,Relationship Recognition,Sexual Orientation,Civil Unions,0,12
+Reno,Nevada,Relationship Recognition,Sexual Orientation,Domestic Partnerships,12,0

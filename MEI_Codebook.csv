@@ -1,0 +1,59 @@
+Column,Category,Government,Type,Issue,Available Points
+1,,,,City,
+2,,,,State,
+3,,,,Latitude,
+4,,,,Longitude,
+5,Non-Discrimination Laws,State,Sexual Orientation,Employment,3
+6,Non-Discrimination Laws,County,Sexual Orientation,Employment,3
+7,Non-Discrimination Laws,City,Sexual Orientation,Employment,3
+8,Non-Discrimination Laws,State,Sexual Orientation,Housing,3
+9,Non-Discrimination Laws,County,Sexual Orientation,Housing,3
+10,Non-Discrimination Laws,City,Sexual Orientation,Housing,3
+11,Non-Discrimination Laws,State,Sexual Orientation,Public Accommodations,3
+12,Non-Discrimination Laws,County,Sexual Orientation,Public Accommodations,3
+13,Non-Discrimination Laws,City,Sexual Orientation,Public Accommodations,3
+14,Relationship Recognition,State,Sexual Orientation,Marriage Equality,12
+15,Relationship Recognition,State,Sexual Orientation,Civil Unions,12
+16,Relationship Recognition,State,Sexual Orientation,Domestic Partnerships,12
+17,Relationship Recognition,County,Sexual Orientation,Domestic Partner Registry,12
+18,Relationship Recognition,City,Sexual Orientation,Domestic Partner Registry,12
+19,Relationship Recognition,City,Sexual Orientation,Domestic Partner Registry stopped due to restrictive state law,2
+20,Municipality as Employer,City,Sexual Orientation,Non-Discrimination in City Employment,5
+21,Municipality as Employer,City,Sexual Orientation,Domestic Health Partner Benefits,4
+22,Municipality as Employer,City,Sexual Orientation,Legal Dependent Benefits,2
+23,Municipality as Employer,City,Sexual Orientation,Equivalent Family Leave,2
+24,Municipality as Employer,City,Sexual Orientation,City Contractor Non-Discrimination Ordinance,2
+25,Municipality as Employer,City,Sexual Orientation,City Contractor Equal Benefits Ordinance,4
+26,Municipality as Employer,City,Sexual Orientation,Grossing Up of Employee Benefits,3
+27,Municipality as Employer,City,Sexual Orientation,Transgender-Inclusive Healthcare Benefits,4
+28,Municipality as Employer,City,Sexual Orientation,Municipality is a Welcoming Place to Work,2
+29,Municipal Services,City,Sexual Orientation,Human Rights Commission,7
+30,Municipal Services,City,Sexual Orientation,LGBT Liaison in the Mayor’s Office,5
+31,Municipal Services,State,Sexual Orientation,Enumerated Anti-Bullying School Policies,3
+32,Municipal Services,County,Sexual Orientation,Enumerated Anti-Bullying School Policies,3
+33,Municipal Services,City,Sexual Orientation,Enumerated Anti-Bullying School Policies,3
+34,Municipal Services,City,Sexual Orientation,City provides services to particularly vulnerable populations of the LGBT community,2
+35,Municipality as Law Enforcement,City,Sexual Orientation,LGBT Police Liaison or Task Force,8
+36,Municipality as Law Enforcement,City,Sexual Orientation,Reported 2011 Hates Crimes Statistics to the FBI,10
+37,Relationship with the LBGT Community,City,Sexual Orientation,Leadership’s Public Position on LGBT Equality,5
+38,Relationship with the LBGT Community,City,Sexual Orientation,Leadership’s Pro-Equality Legislative or Policy Efforts,3
+39,Relationship with the LBGT Community,City,Sexual Orientation,Openly LGBT elected or appointed municipal leaders,3
+40,Relationship with the LBGT Community,City,Sexual Orientation,City engages with the LGBT community,2
+41,Relationship with the LBGT Community,City,Sexual Orientation,Cities are pro-equality despite restrictive state law,2
+42,Non-Discrimination Laws,State,Gender Identity,Employment,3
+43,Non-Discrimination Laws,County,Gender Identity,Employment,3
+44,Non-Discrimination Laws,City,Gender Identity,Employment,3
+45,Non-Discrimination Laws,State,Gender Identity,Housing,3
+46,Non-Discrimination Laws,County,Gender Identity,Housing,3
+47,Non-Discrimination Laws,City,Gender Identity,Housing,3
+48,Non-Discrimination Laws,State,Gender Identity,Public Accommodations,3
+49,Non-Discrimination Laws,County,Gender Identity,Public Accommodations,3
+50,Non-Discrimination Laws,City,Gender Identity,Public Accommodations,3
+51,Municipality as Employer,City,Gender Identity,Non-Discrimination in City Employment,5
+52,Municipality as Employer,City,Gender Identity,City Contractor Non-Discrimination Ordinance,2
+53,Municipal Services,State,Gender Identity,Enumerated Anti-Bullying School Policies,3
+54,Municipal Services,County,Gender Identity,Enumerated Anti-Bullying School Policies,3
+55,Municipal Services,City,Gender Identity,Enumerated Anti-Bullying School Policies,3
+56,,State,,Final Score,57
+57,,County,,Final Score,33
+58,,City,,Final Score,100
