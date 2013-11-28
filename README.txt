@@ -29,4 +29,6 @@ Contents:
 	Data/MEI-revised.csv
 		Corrected version of Data/MEI.csv with inconsistencies removed
 
-
+Notes:
+	The City of Orlando has a Domestic Partnership Registry but did not receive points for this.
+	http://www.cityoforlando.net/cityclerk/domestic_partnership.htm

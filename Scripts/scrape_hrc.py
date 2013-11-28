@@ -23,36 +23,35 @@ def most_common(lst):
     return max(set(lst), key=lst.count)
 
 def get_filename(cityno):
-    return "../HTML/profile%03d.html" % cityno
+    return '../HTML/profile%03d.html' % cityno
 
 def get_url(cityno):
-    return "http://www.hrc.org/apps/mei/profile.php?id=" + str(cityno)
+    return 'http://www.hrc.org/apps/mei/profile.php?id=%d' % cityno
 
 def download_html():
     opener = urllib2.build_opener()
     opener.addheaders = [('User-agent', 'Mozilla/5.0')] # This is a lie.
 
-    for cityno in range(2, 294):
+    for cityno in xrange(2, 294):
+        time.sleep(0.5)
         response = opener.open(get_url(cityno))
         html = response.read()
         f = open(get_filename(cityno), "wt")
         f.write(html)
         f.close()
-        time.sleep(0.5)
 
 def get_lat_lon(cityname):
     try:
-        standard_name, (lat, lon) = g.geocode(cityname, exactly_one=False)[0]
-        print "%s is located at Latitude %s, Longitude %s" % (cityname, lat, lon)
         time.sleep(0.5)
+        standard_name, (lat, lon) = g.geocode(cityname, exactly_one=False)[0]
         return lat, lon
     except ValueError:
-        print "****** %s not located!" % cityname
+        print '****** %s not located!' % cityname
         return '', ''
 
 def write_csv():
     output = []
-    for cityno in range(2, 294):
+    for cityno in xrange(2, 294):
         f = open(get_filename(cityno), 'rt')
         html = ''.join(f.readlines())
         f.close()
@@ -108,14 +107,14 @@ def validate_state_data():
     f.close()
     state_rows = [line.strip().split(',') for line in lines]
 
-    g = open("../Data/MEI_Codebook.csv", 'rt')
+    g = open('../Data/MEI_Codebook.csv', 'rt')
     lines = g.readlines()
     g.close()
     codes = [line.split(',') for line in lines]
 
     fields = [5,8,11,14,15,16,31,42,45,48,53,56]
 
-    output = ["City,State,Category,Type,Issue,Expected,Actual\n"]
+    output = ['City,State,Category,Type,Issue,Expected,Actual\n']
     for row in city_rows:
         state_idx = None
         for i in xrange(len(state_rows)):
@@ -123,7 +122,7 @@ def validate_state_data():
                 state_idx = i
                 break
         else:
-            print "Error - State not found!"
+            print 'Error - State not found!'
             quit()
         for i in xrange(len(fields)):
             expected = state_rows[state_idx][i+1]
