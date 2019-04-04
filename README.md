@@ -11,8 +11,7 @@ Human Rights Campaign Foundation. From the website:
 
 > The 2018 MEI is the seventh annual edition and rates a total of 506 cities
 > on 49 different criteria from every state in the nation.
-
-    (Source: https://www.hrc.org/mei [April 4, 2019])
+> (Source: https://www.hrc.org/mei, April 4, 2019)
 
 This repo contains data from the Municipal Equality Index for 2013 and 2018,
 as well as Python scripts to obtain this data from the HRC website.
