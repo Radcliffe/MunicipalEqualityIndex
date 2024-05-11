@@ -10,6 +10,7 @@ The CSV file `mei-data-2023.csv` contains the following columns:
 - `City`: The name of the city.
 - `State`: The state in which the city is located (two-letter abbreviation).
 - `URL`: The URL of the city's MEI report.
+- `Score Id`: A unique identifier for each score component.
 - `Category`: The category of the city's MEI report. Possible values are `Non-Discrimination Laws`, `Municipality as Employer`, `Municipal Services`, `Law Enforcement`, and `Leadership on LGBTQ+ Equality`.
 - `Criterion`: The criterion within the category.
 - `Level of government`: The level of government responsible for the criterion. Possible values are `City`, `County`, and `State`.
