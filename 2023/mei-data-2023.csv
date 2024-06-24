@@ -4703,55 +4703,55 @@ Row Id,City Id,City,State,URL,Score Id,Category,Criterion,Level of government,Or
 4702,96,Denver,CO,https://www.hrc.org/resources/municipalities/denver-co,47,Leadership on LGBTQ+ Equality,Leadership's Pro-Equality Legislative or Policy Efforts,City,NA,3
 4703,96,Denver,CO,https://www.hrc.org/resources/municipalities/denver-co,48,Leadership on LGBTQ+ Equality,Openly LGBTQ+ elected or appointed municipal leaders,City,NA,2
 4704,96,Denver,CO,https://www.hrc.org/resources/municipalities/denver-co,49,Leadership on LGBTQ+ Equality,City test limits of restrictive state law,City,NA,0
-4705,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,1,Non-Discrimination Laws,Employment,State,Sexual Orientation,5
-4706,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,2,Non-Discrimination Laws,Employment,State,Gender Identity,5
-4707,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,3,Non-Discrimination Laws,Employment,County,Sexual Orientation,0
-4708,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,4,Non-Discrimination Laws,Employment,County,Gender Identity,0
-4709,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,5,Non-Discrimination Laws,Employment,City,Sexual Orientation,0
-4710,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,6,Non-Discrimination Laws,Employment,City,Gender Identity,0
-4711,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,7,Non-Discrimination Laws,Housing,State,Sexual Orientation,5
-4712,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,8,Non-Discrimination Laws,Housing,State,Gender Identity,5
-4713,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,9,Non-Discrimination Laws,Housing,County,Sexual Orientation,0
-4714,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,10,Non-Discrimination Laws,Housing,County,Gender Identity,0
-4715,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,11,Non-Discrimination Laws,Housing,City,Sexual Orientation,0
-4716,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,12,Non-Discrimination Laws,Housing,City,Gender Identity,0
-4717,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,13,Non-Discrimination Laws,Public Accommodations,State,Sexual Orientation,5
-4718,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,14,Non-Discrimination Laws,Public Accommodations,State,Gender Identity,5
-4719,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,15,Non-Discrimination Laws,Public Accommodations,County,Sexual Orientation,0
-4720,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,16,Non-Discrimination Laws,Public Accommodations,County,Gender Identity,0
-4721,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,17,Non-Discrimination Laws,Public Accommodations,City,Sexual Orientation,0
-4722,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,18,Non-Discrimination Laws,Public Accommodations,City,Gender Identity,0
-4723,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,19,Non-Discrimination Laws,All-Gender Single Occupancy Facilities,State,NA,0
-4724,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,20,Non-Discrimination Laws,All-Gender Single Occupancy Facilities,County,NA,0
-4725,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,21,Non-Discrimination Laws,All-Gender Single Occupancy Facilities,City,NA,0
-4726,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,22,Non-Discrimination Laws,Protects Youth From Conversion Therapy,State,NA,2
-4727,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,23,Non-Discrimination Laws,Protects Youth From Conversion Therapy,County,NA,0
-4728,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,24,Non-Discrimination Laws,Protects Youth From Conversion Therapy,City,NA,0
-4729,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,25,Municipality as Employer,Non-Discrimination in City Employment,City,Sexual Orientation,7
-4730,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,26,Municipality as Employer,Non-Discrimination in City Employment,City,Gender Identity,7
-4731,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,27,Municipality as Employer,Transgender-Inclusive Healthcare Benefits,City,NA,6
-4732,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,28,Municipality as Employer,City Contractor Non-Discrimination Ordinance,City,Sexual Orientation,3
-4733,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,29,Municipality as Employer,City Contractor Non-Discrimination Ordinance,City,Gender Identity,3
-4734,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,30,Municipality as Employer,Inclusive Workplace,City,NA,2
-4735,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,31,Municipality as Employer,City Employee Domestic Partner Benefits,City,NA,1
-4736,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,32,Municipal Services,Human Rights Commission,County,NA,0
-4737,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,33,Municipal Services,Human Rights Commission,City,NA,5
-4738,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,34,Municipal Services,Enforcement Mechanism in Human Rights Commission,County,NA,0
-4739,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,35,Municipal Services,Enforcement Mechanism in Human Rights Commission,City,NA,2
-4740,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,36,Municipal Services,LGBTQ+ Liaison in City Executive's Office,City,NA,5
-4741,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,37,Municipal Services,Youth Bullying Prevention Policy for City Services,City,Sexual Orientation,0
-4742,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,38,Municipal Services,Youth Bullying Prevention Policy for City Services,City,Gender Identity,0
-4743,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,39,Municipal Services,City provides services to/supports LGBTQ+ youth,City,NA,0
-4744,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,40,Municipal Services,City provides services to/supports LGBTQ+ people experiencing homelessness,City,NA,0
-4745,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,41,Municipal Services,City provides services to/supports LGBTQ+ older adults,City,NA,2
-4746,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,42,Municipal Services,City provides services to/supports people living with HIV or AIDS,City,NA,2
-4747,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,43,Municipal Services,City provides services to/supports the transgender community,City,NA,2
-4748,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,44,Law Enforcement,LGBTQ+ Police Liaison or Task Force,City,NA,10
-4749,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,45,Law Enforcement,Reported 2019 Hate Crimes Statistics to the FBI,City,NA,12
-4750,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,46,Leadership on LGBTQ+ Equality,Leadership's Public Position on LGBTQ+ Equality,City,NA,5
-4751,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,47,Leadership on LGBTQ+ Equality,Leadership's Pro-Equality Legislative or Policy Efforts,City,NA,3
-4752,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,48,Leadership on LGBTQ+ Equality,Openly LGBTQ+ elected or appointed municipal leaders,City,NA,0
-4753,97,Fort,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,49,Leadership on LGBTQ+ Equality,City test limits of restrictive state law,City,NA,0
+4705,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,1,Non-Discrimination Laws,Employment,State,Sexual Orientation,5
+4706,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,2,Non-Discrimination Laws,Employment,State,Gender Identity,5
+4707,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,3,Non-Discrimination Laws,Employment,County,Sexual Orientation,0
+4708,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,4,Non-Discrimination Laws,Employment,County,Gender Identity,0
+4709,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,5,Non-Discrimination Laws,Employment,City,Sexual Orientation,0
+4710,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,6,Non-Discrimination Laws,Employment,City,Gender Identity,0
+4711,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,7,Non-Discrimination Laws,Housing,State,Sexual Orientation,5
+4712,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,8,Non-Discrimination Laws,Housing,State,Gender Identity,5
+4713,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,9,Non-Discrimination Laws,Housing,County,Sexual Orientation,0
+4714,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,10,Non-Discrimination Laws,Housing,County,Gender Identity,0
+4715,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,11,Non-Discrimination Laws,Housing,City,Sexual Orientation,0
+4716,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,12,Non-Discrimination Laws,Housing,City,Gender Identity,0
+4717,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,13,Non-Discrimination Laws,Public Accommodations,State,Sexual Orientation,5
+4718,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,14,Non-Discrimination Laws,Public Accommodations,State,Gender Identity,5
+4719,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,15,Non-Discrimination Laws,Public Accommodations,County,Sexual Orientation,0
+4720,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,16,Non-Discrimination Laws,Public Accommodations,County,Gender Identity,0
+4721,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,17,Non-Discrimination Laws,Public Accommodations,City,Sexual Orientation,0
+4722,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,18,Non-Discrimination Laws,Public Accommodations,City,Gender Identity,0
+4723,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,19,Non-Discrimination Laws,All-Gender Single Occupancy Facilities,State,NA,0
+4724,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,20,Non-Discrimination Laws,All-Gender Single Occupancy Facilities,County,NA,0
+4725,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,21,Non-Discrimination Laws,All-Gender Single Occupancy Facilities,City,NA,0
+4726,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,22,Non-Discrimination Laws,Protects Youth From Conversion Therapy,State,NA,2
+4727,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,23,Non-Discrimination Laws,Protects Youth From Conversion Therapy,County,NA,0
+4728,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,24,Non-Discrimination Laws,Protects Youth From Conversion Therapy,City,NA,0
+4729,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,25,Municipality as Employer,Non-Discrimination in City Employment,City,Sexual Orientation,7
+4730,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,26,Municipality as Employer,Non-Discrimination in City Employment,City,Gender Identity,7
+4731,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,27,Municipality as Employer,Transgender-Inclusive Healthcare Benefits,City,NA,6
+4732,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,28,Municipality as Employer,City Contractor Non-Discrimination Ordinance,City,Sexual Orientation,3
+4733,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,29,Municipality as Employer,City Contractor Non-Discrimination Ordinance,City,Gender Identity,3
+4734,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,30,Municipality as Employer,Inclusive Workplace,City,NA,2
+4735,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,31,Municipality as Employer,City Employee Domestic Partner Benefits,City,NA,1
+4736,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,32,Municipal Services,Human Rights Commission,County,NA,0
+4737,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,33,Municipal Services,Human Rights Commission,City,NA,5
+4738,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,34,Municipal Services,Enforcement Mechanism in Human Rights Commission,County,NA,0
+4739,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,35,Municipal Services,Enforcement Mechanism in Human Rights Commission,City,NA,2
+4740,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,36,Municipal Services,LGBTQ+ Liaison in City Executive's Office,City,NA,5
+4741,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,37,Municipal Services,Youth Bullying Prevention Policy for City Services,City,Sexual Orientation,0
+4742,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,38,Municipal Services,Youth Bullying Prevention Policy for City Services,City,Gender Identity,0
+4743,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,39,Municipal Services,City provides services to/supports LGBTQ+ youth,City,NA,0
+4744,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,40,Municipal Services,City provides services to/supports LGBTQ+ people experiencing homelessness,City,NA,0
+4745,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,41,Municipal Services,City provides services to/supports LGBTQ+ older adults,City,NA,2
+4746,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,42,Municipal Services,City provides services to/supports people living with HIV or AIDS,City,NA,2
+4747,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,43,Municipal Services,City provides services to/supports the transgender community,City,NA,2
+4748,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,44,Law Enforcement,LGBTQ+ Police Liaison or Task Force,City,NA,10
+4749,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,45,Law Enforcement,Reported 2019 Hate Crimes Statistics to the FBI,City,NA,12
+4750,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,46,Leadership on LGBTQ+ Equality,Leadership's Public Position on LGBTQ+ Equality,City,NA,5
+4751,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,47,Leadership on LGBTQ+ Equality,Leadership's Pro-Equality Legislative or Policy Efforts,City,NA,3
+4752,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,48,Leadership on LGBTQ+ Equality,Openly LGBTQ+ elected or appointed municipal leaders,City,NA,0
+4753,97,Fort Collins,CO,https://www.hrc.org/resources/municipalities/fort-collins-co,49,Leadership on LGBTQ+ Equality,City test limits of restrictive state law,City,NA,0
 4754,98,Lakewood,CO,https://www.hrc.org/resources/municipalities/lakewood-co,1,Non-Discrimination Laws,Employment,State,Sexual Orientation,5
 4755,98,Lakewood,CO,https://www.hrc.org/resources/municipalities/lakewood-co,2,Non-Discrimination Laws,Employment,State,Gender Identity,5
 4756,98,Lakewood,CO,https://www.hrc.org/resources/municipalities/lakewood-co,3,Non-Discrimination Laws,Employment,County,Sexual Orientation,0
