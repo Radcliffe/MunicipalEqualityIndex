@@ -1,0 +1,507 @@
+City Id,State,State Abbreviation,Municipality,Link
+1,Alabama,AL,Auburn,https://www.hrc.org/resources/municipalities/auburn-al
+2,Alabama,AL,Birmingham,https://www.hrc.org/resources/municipalities/birmingham-al
+3,Alabama,AL,Florence,https://www.hrc.org/resources/municipalities/florence-al
+4,Alabama,AL,Hoover,https://www.hrc.org/resources/municipalities/hoover-al
+5,Alabama,AL,Huntsville,https://www.hrc.org/resources/municipalities/huntsville-al
+6,Alabama,AL,Mobile,https://www.hrc.org/resources/municipalities/mobile-al
+7,Alabama,AL,Montgomery,https://www.hrc.org/resources/municipalities/montgomery-al
+8,Alabama,AL,Tuscaloosa,https://www.hrc.org/resources/municipalities/tuscaloosa-al
+9,Alaska,AK,Anchorage,https://www.hrc.org/resources/municipalities/anchorage-ak
+10,Alaska,AK,Fairbanks,https://www.hrc.org/resources/municipalities/fairbanks-ak
+11,Alaska,AK,Homer,https://www.hrc.org/resources/municipalities/homer-ak
+12,Alaska,AK,Juneau,https://www.hrc.org/resources/municipalities/juneau-ak
+13,Alaska,AK,Ketchikan,https://www.hrc.org/resources/municipalities/ketchikan-ak
+14,Alaska,AK,Sitka,https://www.hrc.org/resources/municipalities/sitka-ak
+15,Alaska,AK,Wasilla,https://www.hrc.org/resources/municipalities/wasilla-ak
+16,Arizona,AZ,Avondale,https://www.hrc.org/resources/municipalities/avondale-az
+17,Arizona,AZ,Chandler,https://www.hrc.org/resources/municipalities/chandler-az
+18,Arizona,AZ,Flagstaff,https://www.hrc.org/resources/municipalities/flagstaff-az
+19,Arizona,AZ,Gilbert,https://www.hrc.org/resources/municipalities/gilbert-az
+20,Arizona,AZ,Glendale,https://www.hrc.org/resources/municipalities/glendale-az
+21,Arizona,AZ,Mesa,https://www.hrc.org/resources/municipalities/mesa-az
+22,Arizona,AZ,Peoria,https://www.hrc.org/resources/municipalities/peoria-az
+23,Arizona,AZ,Phoenix,https://www.hrc.org/resources/municipalities/phoenix-az
+24,Arizona,AZ,Scottsdale,https://www.hrc.org/resources/municipalities/scottsdale-az
+25,Arizona,AZ,Tempe,https://www.hrc.org/resources/municipalities/tempe-az
+26,Arizona,AZ,Tucson,https://www.hrc.org/resources/municipalities/tucson-az
+27,Arkansas,AR,Conway,https://www.hrc.org/resources/municipalities/conway-ar
+28,Arkansas,AR,Eureka Springs,https://www.hrc.org/resources/municipalities/eureka-springs-ar
+29,Arkansas,AR,Fayetteville,https://www.hrc.org/resources/municipalities/fayetteville-ar
+30,Arkansas,AR,Fort Smith,https://www.hrc.org/resources/municipalities/fort-smith-ar
+31,Arkansas,AR,Jonesboro,https://www.hrc.org/resources/municipalities/jonesboro-ar
+32,Arkansas,AR,Little Rock,https://www.hrc.org/resources/municipalities/little-rock-ar
+33,Arkansas,AR,North Little Rock,https://www.hrc.org/resources/municipalities/north-little-rock-ar
+34,Arkansas,AR,Springdale,https://www.hrc.org/resources/municipalities/springdale-ar
+35,California,CA,Anaheim,https://www.hrc.org/resources/municipalities/anaheim-ca
+36,California,CA,Bakersfield,https://www.hrc.org/resources/municipalities/bakersfield-ca
+37,California,CA,Berkeley,https://www.hrc.org/resources/municipalities/berkeley-ca
+38,California,CA,Brisbane,https://www.hrc.org/resources/municipalities/brisbane-ca
+39,California,CA,Cathedral City,https://www.hrc.org/resources/municipalities/cathedral-city-ca
+40,California,CA,Chula Vista,https://www.hrc.org/resources/municipalities/chula-vista-ca
+41,California,CA,Concord,https://www.hrc.org/resources/municipalities/concord-ca
+42,California,CA,Corona,https://www.hrc.org/resources/municipalities/corona-ca
+43,California,CA,Elk Grove,https://www.hrc.org/resources/municipalities/elk-grove-ca
+44,California,CA,Escondido,https://www.hrc.org/resources/municipalities/escondido-ca
+45,California,CA,Fontana,https://www.hrc.org/resources/municipalities/fontana-ca
+46,California,CA,Fremont,https://www.hrc.org/resources/municipalities/fremont-ca
+47,California,CA,Fresno,https://www.hrc.org/resources/municipalities/fresno-ca
+48,California,CA,Fullerton,https://www.hrc.org/resources/municipalities/fullerton-ca
+49,California,CA,Garden Grove,https://www.hrc.org/resources/municipalities/garden-grove-ca
+50,California,CA,Glendale,https://www.hrc.org/resources/municipalities/glendale-ca
+51,California,CA,Guerneville Sonoma County,https://www.hrc.org/resources/municipalities/guerneville-sonoma-county-ca
+52,California,CA,Hayward,https://www.hrc.org/resources/municipalities/hayward-ca
+53,California,CA,Huntington Beach,https://www.hrc.org/resources/municipalities/huntington-beach-ca
+54,California,CA,Irvine,https://www.hrc.org/resources/municipalities/irvine-ca
+55,California,CA,Lancaster,https://www.hrc.org/resources/municipalities/lancaster-ca
+56,California,CA,Long Beach,https://www.hrc.org/resources/municipalities/long-beach-ca
+57,California,CA,Los Angeles,https://www.hrc.org/resources/municipalities/los-angeles-ca
+58,California,CA,Modesto,https://www.hrc.org/resources/municipalities/modesto-ca
+59,California,CA,Moreno Valley,https://www.hrc.org/resources/municipalities/moreno-valley-ca
+60,California,CA,Oakland,https://www.hrc.org/resources/municipalities/oakland-ca
+61,California,CA,Oceanside,https://www.hrc.org/resources/municipalities/oceanside-ca
+62,California,CA,Ontario,https://www.hrc.org/resources/municipalities/ontario-ca
+63,California,CA,Orange,https://www.hrc.org/resources/municipalities/orange-ca
+64,California,CA,Oxnard,https://www.hrc.org/resources/municipalities/oxnard-ca
+65,California,CA,Palm Desert,https://www.hrc.org/resources/municipalities/palm-desert-ca
+66,California,CA,Palm Springs,https://www.hrc.org/resources/municipalities/palm-springs-ca
+67,California,CA,Palmdale,https://www.hrc.org/resources/municipalities/palmdale-ca
+68,California,CA,Pasadena,https://www.hrc.org/resources/municipalities/pasadena-ca
+69,California,CA,Pomona,https://www.hrc.org/resources/municipalities/pomona-ca
+70,California,CA,Rancho Cucamonga,https://www.hrc.org/resources/municipalities/rancho-cucamonga-ca
+71,California,CA,Rancho Mirage,https://www.hrc.org/resources/municipalities/rancho-mirage-ca
+72,California,CA,Richmond,https://www.hrc.org/resources/municipalities/richmond-ca
+73,California,CA,Riverside,https://www.hrc.org/resources/municipalities/riverside-ca
+74,California,CA,Sacramento,https://www.hrc.org/resources/municipalities/sacramento-ca
+75,California,CA,Salinas,https://www.hrc.org/resources/municipalities/salinas-ca
+76,California,CA,San Bernardino,https://www.hrc.org/resources/municipalities/san-bernardino-ca
+77,California,CA,San Diego,https://www.hrc.org/resources/municipalities/san-diego-ca
+78,California,CA,San Francisco,https://www.hrc.org/resources/municipalities/san-francisco-ca
+79,California,CA,San Jose,https://www.hrc.org/resources/municipalities/san-jose-ca
+80,California,CA,Santa Ana,https://www.hrc.org/resources/municipalities/santa-ana-ca
+81,California,CA,Santa Clarita,https://www.hrc.org/resources/municipalities/santa-clarita-ca
+82,California,CA,Santa Monica,https://www.hrc.org/resources/municipalities/santa-monica-ca
+83,California,CA,Santa Rosa,https://www.hrc.org/resources/municipalities/santa-rosa-ca
+84,California,CA,Signal Hill,https://www.hrc.org/resources/municipalities/signal-hill-ca
+85,California,CA,Stockton,https://www.hrc.org/resources/municipalities/stockton-ca
+86,California,CA,Sunnyvale,https://www.hrc.org/resources/municipalities/sunnyvale-ca
+87,California,CA,Thousand Oaks,https://www.hrc.org/resources/municipalities/thousand-oaks-ca
+88,California,CA,Torrance,https://www.hrc.org/resources/municipalities/torrance-ca
+89,California,CA,Vallejo,https://www.hrc.org/resources/municipalities/vallejo-ca
+90,California,CA,Visalia,https://www.hrc.org/resources/municipalities/visalia-ca
+91,California,CA,West Hollywood,https://www.hrc.org/resources/municipalities/west-hollywood-ca
+92,Colorado,CO,Aspen,https://www.hrc.org/resources/municipalities/aspen-co
+93,Colorado,CO,Aurora,https://www.hrc.org/resources/municipalities/aurora-co
+94,Colorado,CO,Boulder,https://www.hrc.org/resources/municipalities/boulder-co
+95,Colorado,CO,Colorado Springs,https://www.hrc.org/resources/municipalities/colorado-springs-co
+96,Colorado,CO,Denver,https://www.hrc.org/resources/municipalities/denver-co
+97,Colorado,CO,Fort Collins,https://www.hrc.org/resources/municipalities/fort-collins-co
+98,Colorado,CO,Lakewood,https://www.hrc.org/resources/municipalities/lakewood-co
+99,Colorado,CO,Littleton,https://www.hrc.org/resources/municipalities/littleton-co
+100,Connecticut,CT,Bridgeport,https://www.hrc.org/resources/municipalities/bridgeport-ct
+101,Connecticut,CT,Fairfield,https://www.hrc.org/resources/municipalities/fairfield-ct
+102,Connecticut,CT,Hartford,https://www.hrc.org/resources/municipalities/hartford-ct
+103,Connecticut,CT,New Britain,https://www.hrc.org/resources/municipalities/new-britain-ct
+104,Connecticut,CT,New Haven,https://www.hrc.org/resources/municipalities/new-haven-ct
+105,Connecticut,CT,Norwalk,https://www.hrc.org/resources/municipalities/norwalk-ct
+106,Connecticut,CT,Stamford,https://www.hrc.org/resources/municipalities/stamford-ct
+107,Connecticut,CT,Storrs Mansfield,https://www.hrc.org/resources/municipalities/storrs-mansfield-ct
+108,Connecticut,CT,Waterbury,https://www.hrc.org/resources/municipalities/waterbury-ct
+109,Delaware,DE,Bethany Beach,https://www.hrc.org/resources/municipalities/bethany-beach-de
+110,Delaware,DE,Dover,https://www.hrc.org/resources/municipalities/dover-de
+111,Delaware,DE,Middletown,https://www.hrc.org/resources/municipalities/middletown-de
+112,Delaware,DE,Milford,https://www.hrc.org/resources/municipalities/milford-de
+113,Delaware,DE,Newark,https://www.hrc.org/resources/municipalities/newark-de
+114,Delaware,DE,Rehoboth Beach,https://www.hrc.org/resources/municipalities/rehoboth-beach-de
+115,Delaware,DE,Smyrna,https://www.hrc.org/resources/municipalities/smyrna-de
+116,Delaware,DE,Wilmington,https://www.hrc.org/resources/municipalities/wilmington-de
+117,Florida,FL,Cape Coral,https://www.hrc.org/resources/municipalities/cape-coral-fl
+118,Florida,FL,Coral Gables,https://www.hrc.org/resources/municipalities/coral-gables-fl
+119,Florida,FL,Daytona Beach,https://www.hrc.org/resources/municipalities/daytona-beach-fl
+120,Florida,FL,Fort Lauderdale,https://www.hrc.org/resources/municipalities/fort-lauderdale-fl
+121,Florida,FL,Gainesville,https://www.hrc.org/resources/municipalities/gainesville-fl
+122,Florida,FL,Hialeah,https://www.hrc.org/resources/municipalities/hialeah-fl
+123,Florida,FL,Hollywood,https://www.hrc.org/resources/municipalities/hollywood-fl
+124,Florida,FL,Jacksonville,https://www.hrc.org/resources/municipalities/jacksonville-fl
+125,Florida,FL,Miami Shores,https://www.hrc.org/resources/municipalities/miami-shores-fl
+126,Florida,FL,Miami,https://www.hrc.org/resources/municipalities/miami-fl
+127,Florida,FL,Oakland Park,https://www.hrc.org/resources/municipalities/oakland-park-fl
+128,Florida,FL,Orlando,https://www.hrc.org/resources/municipalities/orlando-fl
+129,Florida,FL,Pembroke Pines,https://www.hrc.org/resources/municipalities/pembroke-pines-fl
+130,Florida,FL,Port Saint Lucie,https://www.hrc.org/resources/municipalities/port-saint-lucie-fl
+131,Florida,FL,St. Petersburg,https://www.hrc.org/resources/municipalities/st.-petersburg-fl
+132,Florida,FL,Tallahassee,https://www.hrc.org/resources/municipalities/tallahassee-fl
+133,Florida,FL,Tampa,https://www.hrc.org/resources/municipalities/tampa-fl
+134,Florida,FL,Wilton Manors,https://www.hrc.org/resources/municipalities/wilton-manors-fl
+135,Georgia,GA,Athens Clarke County,https://www.hrc.org/resources/municipalities/athens-clarke-county-ga
+136,Georgia,GA,Atlanta,https://www.hrc.org/resources/municipalities/atlanta-ga
+137,Georgia,GA,Augusta Richmond County,https://www.hrc.org/resources/municipalities/augusta-richmond-county-ga
+138,Georgia,GA,Avondale Estates,https://www.hrc.org/resources/municipalities/avondale-estates-ga
+139,Georgia,GA,Columbus,https://www.hrc.org/resources/municipalities/columbus-ga
+140,Georgia,GA,Decatur,https://www.hrc.org/resources/municipalities/decatur-ga
+141,Georgia,GA,North Druid Hills Dekalb County,https://www.hrc.org/resources/municipalities/north-druid-hills-dekalb-county-ga
+142,Georgia,GA,Roswell,https://www.hrc.org/resources/municipalities/roswell-ga
+143,Georgia,GA,Sandy Springs,https://www.hrc.org/resources/municipalities/sandy-springs-ga
+144,Georgia,GA,Savannah,https://www.hrc.org/resources/municipalities/savannah-ga
+145,Hawaii,HI,Hawaii County,https://www.hrc.org/resources/municipalities/hawaii-county-hi
+146,Hawaii,HI,Honolulu County,https://www.hrc.org/resources/municipalities/honolulu-county-hi
+147,Hawaii,HI,Kalawao County,https://www.hrc.org/resources/municipalities/kalawao-county-hi
+148,Hawaii,HI,Kauai County,https://www.hrc.org/resources/municipalities/kauai-county-hi
+149,Hawaii,HI,Maui County,https://www.hrc.org/resources/municipalities/maui-county-hi
+150,Idaho,ID,Boise,https://www.hrc.org/resources/municipalities/boise-id
+151,Idaho,ID,Coeur Dalene,https://www.hrc.org/resources/municipalities/coeur-dalene-id
+152,Idaho,ID,Idaho Falls,https://www.hrc.org/resources/municipalities/idaho-falls-id
+153,Idaho,ID,Meridian,https://www.hrc.org/resources/municipalities/meridian-id
+154,Idaho,ID,Moscow,https://www.hrc.org/resources/municipalities/moscow-id
+155,Idaho,ID,Nampa,https://www.hrc.org/resources/municipalities/nampa-id
+156,Idaho,ID,Pocatello,https://www.hrc.org/resources/municipalities/pocatello-id
+157,Illinois,IL,Aurora,https://www.hrc.org/resources/municipalities/aurora-il
+158,Illinois,IL,Carbondale,https://www.hrc.org/resources/municipalities/carbondale-il
+159,Illinois,IL,Champaign,https://www.hrc.org/resources/municipalities/champaign-il
+160,Illinois,IL,Chicago,https://www.hrc.org/resources/municipalities/chicago-il
+161,Illinois,IL,Joliet,https://www.hrc.org/resources/municipalities/joliet-il
+162,Illinois,IL,Naperville,https://www.hrc.org/resources/municipalities/naperville-il
+163,Illinois,IL,Peoria,https://www.hrc.org/resources/municipalities/peoria-il
+164,Illinois,IL,Rockford,https://www.hrc.org/resources/municipalities/rockford-il
+165,Illinois,IL,Springfield,https://www.hrc.org/resources/municipalities/springfield-il
+166,Indiana,IN,Bloomington,https://www.hrc.org/resources/municipalities/bloomington-in
+167,Indiana,IN,Evansville,https://www.hrc.org/resources/municipalities/evansville-in
+168,Indiana,IN,Fort Wayne,https://www.hrc.org/resources/municipalities/fort-wayne-in
+169,Indiana,IN,Hammond,https://www.hrc.org/resources/municipalities/hammond-in
+170,Indiana,IN,Indianapolis,https://www.hrc.org/resources/municipalities/indianapolis-in
+171,Indiana,IN,Muncie,https://www.hrc.org/resources/municipalities/muncie-in
+172,Indiana,IN,South Bend,https://www.hrc.org/resources/municipalities/south-bend-in
+173,Indiana,IN,Terre Haute,https://www.hrc.org/resources/municipalities/terre-haute-in
+174,Indiana,IN,West Lafayette,https://www.hrc.org/resources/municipalities/west-lafayette-in
+175,Iowa,IA,Ames,https://www.hrc.org/resources/municipalities/ames-ia
+176,Iowa,IA,Cedar Rapids,https://www.hrc.org/resources/municipalities/cedar-rapids-ia
+177,Iowa,IA,Davenport,https://www.hrc.org/resources/municipalities/davenport-ia
+178,Iowa,IA,Des Moines,https://www.hrc.org/resources/municipalities/des-moines-ia
+179,Iowa,IA,Dubuque,https://www.hrc.org/resources/municipalities/dubuque-ia
+180,Iowa,IA,Iowa City,https://www.hrc.org/resources/municipalities/iowa-city-ia
+181,Iowa,IA,Sioux City,https://www.hrc.org/resources/municipalities/sioux-city-ia
+182,Iowa,IA,Waterloo,https://www.hrc.org/resources/municipalities/waterloo-ia
+183,Iowa,IA,West Des Moines,https://www.hrc.org/resources/municipalities/west-des-moines-ia
+184,Kansas,KS,Emporia,https://www.hrc.org/resources/municipalities/emporia-ks
+185,Kansas,KS,Hutchinson,https://www.hrc.org/resources/municipalities/hutchinson-ks
+186,Kansas,KS,Kansas City,https://www.hrc.org/resources/municipalities/kansas-city-ks
+187,Kansas,KS,Lawrence,https://www.hrc.org/resources/municipalities/lawrence-ks
+188,Kansas,KS,Manhattan,https://www.hrc.org/resources/municipalities/manhattan-ks
+189,Kansas,KS,Olathe,https://www.hrc.org/resources/municipalities/olathe-ks
+190,Kansas,KS,Overland Park,https://www.hrc.org/resources/municipalities/overland-park-ks
+191,Kansas,KS,Topeka,https://www.hrc.org/resources/municipalities/topeka-ks
+192,Kansas,KS,Wichita,https://www.hrc.org/resources/municipalities/wichita-ks
+193,Kentucky,KY,Berea,https://www.hrc.org/resources/municipalities/berea-ky
+194,Kentucky,KY,Bowling Green,https://www.hrc.org/resources/municipalities/bowling-green-ky
+195,Kentucky,KY,Covington,https://www.hrc.org/resources/municipalities/covington-ky
+196,Kentucky,KY,Frankfort,https://www.hrc.org/resources/municipalities/frankfort-ky
+197,Kentucky,KY,Lexington,https://www.hrc.org/resources/municipalities/lexington-ky
+198,Kentucky,KY,Louisville,https://www.hrc.org/resources/municipalities/louisville-ky
+199,Kentucky,KY,Morehead,https://www.hrc.org/resources/municipalities/morehead-ky
+200,Kentucky,KY,Owensboro,https://www.hrc.org/resources/municipalities/owensboro-ky
+201,Louisiana,LA,Alexandria,https://www.hrc.org/resources/municipalities/alexandria-la
+202,Louisiana,LA,Baton Rouge,https://www.hrc.org/resources/municipalities/baton-rouge-la
+203,Louisiana,LA,Lafayette,https://www.hrc.org/resources/municipalities/lafayette-la
+204,Louisiana,LA,Lake Charles,https://www.hrc.org/resources/municipalities/lake-charles-la
+205,Louisiana,LA,Metairie,https://www.hrc.org/resources/municipalities/metairie-la
+206,Louisiana,LA,Monroe,https://www.hrc.org/resources/municipalities/monroe-la
+207,Louisiana,LA,New Orleans,https://www.hrc.org/resources/municipalities/new-orleans-la
+208,Louisiana,LA,Shreveport,https://www.hrc.org/resources/municipalities/shreveport-la
+209,Maine,ME,Auburn,https://www.hrc.org/resources/municipalities/auburn-me
+210,Maine,ME,Augusta,https://www.hrc.org/resources/municipalities/augusta-me
+211,Maine,ME,Bangor,https://www.hrc.org/resources/municipalities/bangor-me
+212,Maine,ME,Brunswick,https://www.hrc.org/resources/municipalities/brunswick-me
+213,Maine,ME,Lewiston,https://www.hrc.org/resources/municipalities/lewiston-me
+214,Maine,ME,Orono,https://www.hrc.org/resources/municipalities/orono-me
+215,Maine,ME,Portland,https://www.hrc.org/resources/municipalities/portland-me
+216,Maine,ME,Scarborough,https://www.hrc.org/resources/municipalities/scarborough-me
+217,Maine,ME,South Portland,https://www.hrc.org/resources/municipalities/south-portland-me
+218,Montana,MT,Billings,https://www.hrc.org/resources/municipalities/billings-mt
+219,Montana,MT,Bozeman,https://www.hrc.org/resources/municipalities/bozeman-mt
+220,Montana,MT,Butte Silver Bow,https://www.hrc.org/resources/municipalities/butte-silver-bow-mt
+221,Montana,MT,Great Falls,https://www.hrc.org/resources/municipalities/great-falls-mt
+222,Montana,MT,Helena,https://www.hrc.org/resources/municipalities/helena-mt
+223,Montana,MT,Kalispell,https://www.hrc.org/resources/municipalities/kalispell-mt
+224,Montana,MT,Missoula,https://www.hrc.org/resources/municipalities/missoula-mt
+225,Montana,MT,Whitefish,https://www.hrc.org/resources/municipalities/whitefish-mt
+226,Nebraska,NE,Bellevue,https://www.hrc.org/resources/municipalities/bellevue-ne
+227,Nebraska,NE,Fremont,https://www.hrc.org/resources/municipalities/fremont-ne
+228,Nebraska,NE,Grand Island,https://www.hrc.org/resources/municipalities/grand-island-ne
+229,Nebraska,NE,Kearney,https://www.hrc.org/resources/municipalities/kearney-ne
+230,Nebraska,NE,Lincoln,https://www.hrc.org/resources/municipalities/lincoln-ne
+231,Nebraska,NE,North Platte,https://www.hrc.org/resources/municipalities/north-platte-ne
+232,Nebraska,NE,Omaha,https://www.hrc.org/resources/municipalities/omaha-ne
+233,Nevada,NV,Carson City,https://www.hrc.org/resources/municipalities/carson-city-nv
+234,Nevada,NV,Elko,https://www.hrc.org/resources/municipalities/elko-nv
+235,Nevada,NV,Enterprise Clark County,https://www.hrc.org/resources/municipalities/enterprise-clark-county-nv
+236,Nevada,NV,Henderson,https://www.hrc.org/resources/municipalities/henderson-nv
+237,Nevada,NV,Las Vegas,https://www.hrc.org/resources/municipalities/las-vegas-nv
+238,Nevada,NV,Mesquite,https://www.hrc.org/resources/municipalities/mesquite-nv
+239,Nevada,NV,North Las Vegas,https://www.hrc.org/resources/municipalities/north-las-vegas-nv
+240,Nevada,NV,Paradise Clark County,https://www.hrc.org/resources/municipalities/paradise-clark-county-nv
+241,Nevada,NV,Reno,https://www.hrc.org/resources/municipalities/reno-nv
+242,Nevada,NV,Sparks,https://www.hrc.org/resources/municipalities/sparks-nv
+243,New Hampshire,NH,Concord,https://www.hrc.org/resources/municipalities/concord-nh
+244,New Hampshire,NH,Derry,https://www.hrc.org/resources/municipalities/derry-nh
+245,New Hampshire,NH,Dover,https://www.hrc.org/resources/municipalities/dover-nh
+246,New Hampshire,NH,Durham,https://www.hrc.org/resources/municipalities/durham-nh
+247,New Hampshire,NH,Keene,https://www.hrc.org/resources/municipalities/keene-nh
+248,New Hampshire,NH,Manchester,https://www.hrc.org/resources/municipalities/manchester-nh
+249,New Hampshire,NH,Nashua,https://www.hrc.org/resources/municipalities/nashua-nh
+250,New Hampshire,NH,Plymouth,https://www.hrc.org/resources/municipalities/plymouth-nh
+251,New Hampshire,NH,Portsmouth,https://www.hrc.org/resources/municipalities/portsmouth-nh
+252,New Hampshire,NH,Rochester,https://www.hrc.org/resources/municipalities/rochester-nh
+253,New Jersey,NJ,Asbury Park,https://www.hrc.org/resources/municipalities/asbury-park-nj
+254,New Jersey,NJ,Elizabeth,https://www.hrc.org/resources/municipalities/elizabeth-nj
+255,New Jersey,NJ,Hoboken,https://www.hrc.org/resources/municipalities/hoboken-nj
+256,New Jersey,NJ,Jersey City,https://www.hrc.org/resources/municipalities/jersey-city-nj
+257,New Jersey,NJ,Lambertville,https://www.hrc.org/resources/municipalities/lambertville-nj
+258,New Jersey,NJ,Montclair,https://www.hrc.org/resources/municipalities/montclair-nj
+259,New Jersey,NJ,New Brunswick,https://www.hrc.org/resources/municipalities/new-brunswick-nj
+260,New Jersey,NJ,Newark,https://www.hrc.org/resources/municipalities/newark-nj
+261,New Jersey,NJ,Ocean Grove Neptune,https://www.hrc.org/resources/municipalities/ocean-grove-neptune-nj
+262,New Jersey,NJ,Paterson,https://www.hrc.org/resources/municipalities/paterson-nj
+263,New Jersey,NJ,Princeton,https://www.hrc.org/resources/municipalities/princeton-nj
+264,New Jersey,NJ,Trenton,https://www.hrc.org/resources/municipalities/trenton-nj
+265,New Mexico,NM,Albuquerque,https://www.hrc.org/resources/municipalities/albuquerque-nm
+266,New Mexico,NM,Eldorado At Santa Fe,https://www.hrc.org/resources/municipalities/eldorado-at-santa-fe-nm
+267,New Mexico,NM,Farmington,https://www.hrc.org/resources/municipalities/farmington-nm
+268,New Mexico,NM,Gallup,https://www.hrc.org/resources/municipalities/gallup-nm
+269,New Mexico,NM,Las Cruces,https://www.hrc.org/resources/municipalities/las-cruces-nm
+270,New Mexico,NM,Rio Rancho,https://www.hrc.org/resources/municipalities/rio-rancho-nm
+271,New Mexico,NM,Roswell,https://www.hrc.org/resources/municipalities/roswell-nm
+272,New Mexico,NM,Santa Fe,https://www.hrc.org/resources/municipalities/santa-fe-nm
+273,New York,NY,Albany,https://www.hrc.org/resources/municipalities/albany-ny
+274,New York,NY,Brookhaven,https://www.hrc.org/resources/municipalities/brookhaven-ny
+275,New York,NY,Buffalo,https://www.hrc.org/resources/municipalities/buffalo-ny
+276,New York,NY,Ithaca,https://www.hrc.org/resources/municipalities/ithaca-ny
+277,New York,NY,New York,https://www.hrc.org/resources/municipalities/new-york-ny
+278,New York,NY,Northwest Harbor East Hampton,https://www.hrc.org/resources/municipalities/northwest-harbor-east-hampton-ny
+279,New York,NY,Rochester,https://www.hrc.org/resources/municipalities/rochester-ny
+280,New York,NY,Syracuse,https://www.hrc.org/resources/municipalities/syracuse-ny
+281,New York,NY,White Plains,https://www.hrc.org/resources/municipalities/white-plains-ny
+282,New York,NY,Yonkers,https://www.hrc.org/resources/municipalities/yonkers-ny
+283,North Carolina,NC,Carrboro,https://www.hrc.org/resources/municipalities/carrboro-nc
+284,North Carolina,NC,Cary,https://www.hrc.org/resources/municipalities/cary-nc
+285,North Carolina,NC,Chapel Hill,https://www.hrc.org/resources/municipalities/chapel-hill-nc
+286,North Carolina,NC,Charlotte,https://www.hrc.org/resources/municipalities/charlotte-nc
+287,North Carolina,NC,Durham,https://www.hrc.org/resources/municipalities/durham-nc
+288,North Carolina,NC,Fayetteville,https://www.hrc.org/resources/municipalities/fayetteville-nc
+289,North Carolina,NC,Greensboro,https://www.hrc.org/resources/municipalities/greensboro-nc
+290,North Carolina,NC,Raleigh,https://www.hrc.org/resources/municipalities/raleigh-nc
+291,North Carolina,NC,Wilmington,https://www.hrc.org/resources/municipalities/wilmington-nc
+292,North Carolina,NC,Winston Salem,https://www.hrc.org/resources/municipalities/winston-salem-nc
+293,North Dakota,ND,Bismarck,https://www.hrc.org/resources/municipalities/bismarck-nd
+294,North Dakota,ND,Fargo,https://www.hrc.org/resources/municipalities/fargo-nd
+295,North Dakota,ND,Grand Forks,https://www.hrc.org/resources/municipalities/grand-forks-nd
+296,North Dakota,ND,Jamestown,https://www.hrc.org/resources/municipalities/jamestown-nd
+297,North Dakota,ND,Mandan,https://www.hrc.org/resources/municipalities/mandan-nd
+298,North Dakota,ND,Minot,https://www.hrc.org/resources/municipalities/minot-nd
+299,North Dakota,ND,West Fargo,https://www.hrc.org/resources/municipalities/west-fargo-nd
+300,Ohio,OH,Akron,https://www.hrc.org/resources/municipalities/akron-oh
+301,Ohio,OH,Cincinnati,https://www.hrc.org/resources/municipalities/cincinnati-oh
+302,Ohio,OH,Cleveland,https://www.hrc.org/resources/municipalities/cleveland-oh
+303,Ohio,OH,Columbus,https://www.hrc.org/resources/municipalities/columbus-oh
+304,Ohio,OH,Dayton,https://www.hrc.org/resources/municipalities/dayton-oh
+305,Ohio,OH,Dublin,https://www.hrc.org/resources/municipalities/dublin-oh
+306,Ohio,OH,Lakewood,https://www.hrc.org/resources/municipalities/lakewood-oh
+307,Ohio,OH,Toledo,https://www.hrc.org/resources/municipalities/toledo-oh
+308,Oklahoma,OK,Broken Arrow,https://www.hrc.org/resources/municipalities/broken-arrow-ok
+309,Oklahoma,OK,Edmond,https://www.hrc.org/resources/municipalities/edmond-ok
+310,Oklahoma,OK,Lawton,https://www.hrc.org/resources/municipalities/lawton-ok
+311,Oklahoma,OK,Moore,https://www.hrc.org/resources/municipalities/moore-ok
+312,Oklahoma,OK,Norman,https://www.hrc.org/resources/municipalities/norman-ok
+313,Oklahoma,OK,Oklahoma City,https://www.hrc.org/resources/municipalities/oklahoma-city-ok
+314,Oklahoma,OK,Stillwater,https://www.hrc.org/resources/municipalities/stillwater-ok
+315,Oklahoma,OK,Tulsa,https://www.hrc.org/resources/municipalities/tulsa-ok
+316,Oregon,OR,Ashland,https://www.hrc.org/resources/municipalities/ashland-or
+317,Oregon,OR,Bend,https://www.hrc.org/resources/municipalities/bend-or
+318,Oregon,OR,Corvallis,https://www.hrc.org/resources/municipalities/corvallis-or
+319,Oregon,OR,Eugene,https://www.hrc.org/resources/municipalities/eugene-or
+320,Oregon,OR,Gresham,https://www.hrc.org/resources/municipalities/gresham-or
+321,Oregon,OR,Hillsboro,https://www.hrc.org/resources/municipalities/hillsboro-or
+322,Oregon,OR,Portland,https://www.hrc.org/resources/municipalities/portland-or
+323,Oregon,OR,Salem,https://www.hrc.org/resources/municipalities/salem-or
+324,Maryland,MD,Annapolis,https://www.hrc.org/resources/municipalities/annapolis-md
+325,Maryland,MD,Baltimore,https://www.hrc.org/resources/municipalities/baltimore-md
+326,Maryland,MD,Bowie,https://www.hrc.org/resources/municipalities/bowie-md
+327,Maryland,MD,College Park,https://www.hrc.org/resources/municipalities/college-park-md
+328,Maryland,MD,Columbia,https://www.hrc.org/resources/municipalities/columbia-md
+329,Maryland,MD,Frederick,https://www.hrc.org/resources/municipalities/frederick-md
+330,Maryland,MD,Gaithersburg,https://www.hrc.org/resources/municipalities/gaithersburg-md
+331,Maryland,MD,Hagerstown,https://www.hrc.org/resources/municipalities/hagerstown-md
+332,Maryland,MD,Rockville,https://www.hrc.org/resources/municipalities/rockville-md
+333,Maryland,MD,Towson Baltimore County,https://www.hrc.org/resources/municipalities/towson-baltimore-county-md
+334,Massachusetts,MA,Amherst,https://www.hrc.org/resources/municipalities/amherst-ma
+335,Massachusetts,MA,Arlington,https://www.hrc.org/resources/municipalities/arlington-ma
+336,Massachusetts,MA,Boston,https://www.hrc.org/resources/municipalities/boston-ma
+337,Massachusetts,MA,Cambridge,https://www.hrc.org/resources/municipalities/cambridge-ma
+338,Massachusetts,MA,Lowell,https://www.hrc.org/resources/municipalities/lowell-ma
+339,Massachusetts,MA,Northampton,https://www.hrc.org/resources/municipalities/northampton-ma
+340,Massachusetts,MA,Provincetown,https://www.hrc.org/resources/municipalities/provincetown-ma
+341,Massachusetts,MA,Salem,https://www.hrc.org/resources/municipalities/salem-ma
+342,Massachusetts,MA,Springfield,https://www.hrc.org/resources/municipalities/springfield-ma
+343,Massachusetts,MA,Worcester,https://www.hrc.org/resources/municipalities/worcester-ma
+344,Michigan,MI,Ann Arbor,https://www.hrc.org/resources/municipalities/ann-arbor-mi
+345,Michigan,MI,Detroit,https://www.hrc.org/resources/municipalities/detroit-mi
+346,Michigan,MI,East Lansing,https://www.hrc.org/resources/municipalities/east-lansing-mi
+347,Michigan,MI,Ferndale,https://www.hrc.org/resources/municipalities/ferndale-mi
+348,Michigan,MI,Grand Rapids,https://www.hrc.org/resources/municipalities/grand-rapids-mi
+349,Michigan,MI,Kalamazoo,https://www.hrc.org/resources/municipalities/kalamazoo-mi
+350,Michigan,MI,Lansing,https://www.hrc.org/resources/municipalities/lansing-mi
+351,Michigan,MI,Pleasant Ridge,https://www.hrc.org/resources/municipalities/pleasant-ridge-mi
+352,Michigan,MI,Sterling Heights,https://www.hrc.org/resources/municipalities/sterling-heights-mi
+353,Michigan,MI,Traverse City,https://www.hrc.org/resources/municipalities/traverse-city-mi
+354,Michigan,MI,Warren,https://www.hrc.org/resources/municipalities/warren-mi
+355,Minnesota,MN,Bloomington,https://www.hrc.org/resources/municipalities/bloomington-mn
+356,Minnesota,MN,Duluth,https://www.hrc.org/resources/municipalities/duluth-mn
+357,Minnesota,MN,Eden Prairie,https://www.hrc.org/resources/municipalities/eden-prairie-mn
+358,Minnesota,MN,Minneapolis,https://www.hrc.org/resources/municipalities/minneapolis-mn
+359,Minnesota,MN,Minnetonka,https://www.hrc.org/resources/municipalities/minnetonka-mn
+360,Minnesota,MN,Rochester,https://www.hrc.org/resources/municipalities/rochester-mn
+361,Minnesota,MN,Saint Cloud,https://www.hrc.org/resources/municipalities/saint-cloud-mn
+362,Minnesota,MN,Saint Paul,https://www.hrc.org/resources/municipalities/saint-paul-mn
+363,Mississippi,MS,Bay St. Louis,https://www.hrc.org/resources/municipalities/bay-st.-louis-ms
+364,Mississippi,MS,Biloxi,https://www.hrc.org/resources/municipalities/biloxi-ms
+365,Mississippi,MS,Gulfport,https://www.hrc.org/resources/municipalities/gulfport-ms
+366,Mississippi,MS,Hattiesburg,https://www.hrc.org/resources/municipalities/hattiesburg-ms
+367,Mississippi,MS,Jackson,https://www.hrc.org/resources/municipalities/jackson-ms
+368,Mississippi,MS,Ocean Springs,https://www.hrc.org/resources/municipalities/ocean-springs-ms
+369,Mississippi,MS,Oxford,https://www.hrc.org/resources/municipalities/oxford-ms
+370,Mississippi,MS,Southaven,https://www.hrc.org/resources/municipalities/southaven-ms
+371,Mississippi,MS,Starkville,https://www.hrc.org/resources/municipalities/starkville-ms
+372,Missouri,MO,Cape Girardeau,https://www.hrc.org/resources/municipalities/cape-girardeau-mo
+373,Missouri,MO,Columbia,https://www.hrc.org/resources/municipalities/columbia-mo
+374,Missouri,MO,Independence,https://www.hrc.org/resources/municipalities/independence-mo
+375,Missouri,MO,Jefferson City,https://www.hrc.org/resources/municipalities/jefferson-city-mo
+376,Missouri,MO,Kansas City,https://www.hrc.org/resources/municipalities/kansas-city-mo
+377,Missouri,MO,Springfield,https://www.hrc.org/resources/municipalities/springfield-mo
+378,Missouri,MO,St. Charles,https://www.hrc.org/resources/municipalities/st.-charles-mo
+379,Missouri,MO,St. Louis,https://www.hrc.org/resources/municipalities/st.-louis-mo
+380,Pennsylvania,PA,Allentown,https://www.hrc.org/resources/municipalities/allentown-pa
+381,Pennsylvania,PA,Carlisle,https://www.hrc.org/resources/municipalities/carlisle-pa
+382,Pennsylvania,PA,Erie,https://www.hrc.org/resources/municipalities/erie-pa
+383,Pennsylvania,PA,Harrisburg,https://www.hrc.org/resources/municipalities/harrisburg-pa
+384,Pennsylvania,PA,New Hope,https://www.hrc.org/resources/municipalities/new-hope-pa
+385,Pennsylvania,PA,Philadelphia,https://www.hrc.org/resources/municipalities/philadelphia-pa
+386,Pennsylvania,PA,Pittsburgh,https://www.hrc.org/resources/municipalities/pittsburgh-pa
+387,Pennsylvania,PA,Reading,https://www.hrc.org/resources/municipalities/reading-pa
+388,Pennsylvania,PA,State College,https://www.hrc.org/resources/municipalities/state-college-pa
+389,Pennsylvania,PA,Wilkes Barre,https://www.hrc.org/resources/municipalities/wilkes-barre-pa
+390,Rhode Island,RI,Cranston,https://www.hrc.org/resources/municipalities/cranston-ri
+391,Rhode Island,RI,East Providence,https://www.hrc.org/resources/municipalities/east-providence-ri
+392,Rhode Island,RI,Kingston South Kingstown,https://www.hrc.org/resources/municipalities/kingston-south-kingstown-ri
+393,Rhode Island,RI,Narragansett,https://www.hrc.org/resources/municipalities/narragansett-ri
+394,Rhode Island,RI,Newport,https://www.hrc.org/resources/municipalities/newport-ri
+395,Rhode Island,RI,Pawtucket,https://www.hrc.org/resources/municipalities/pawtucket-ri
+396,Rhode Island,RI,Providence,https://www.hrc.org/resources/municipalities/providence-ri
+397,Rhode Island,RI,Warwick,https://www.hrc.org/resources/municipalities/warwick-ri
+398,South Carolina,SC,Charleston,https://www.hrc.org/resources/municipalities/charleston-sc
+399,South Carolina,SC,Clemson,https://www.hrc.org/resources/municipalities/clemson-sc
+400,South Carolina,SC,Columbia,https://www.hrc.org/resources/municipalities/columbia-sc
+401,South Carolina,SC,Greenville,https://www.hrc.org/resources/municipalities/greenville-sc
+402,South Carolina,SC,Mount Pleasant,https://www.hrc.org/resources/municipalities/mount-pleasant-sc
+403,South Carolina,SC,Myrtle Beach,https://www.hrc.org/resources/municipalities/myrtle-beach-sc
+404,South Carolina,SC,North Charleston,https://www.hrc.org/resources/municipalities/north-charleston-sc
+405,South Carolina,SC,Rock Hill,https://www.hrc.org/resources/municipalities/rock-hill-sc
+406,South Dakota,SD,Aberdeen,https://www.hrc.org/resources/municipalities/aberdeen-sd
+407,South Dakota,SD,Brookings,https://www.hrc.org/resources/municipalities/brookings-sd
+408,South Dakota,SD,Mitchell,https://www.hrc.org/resources/municipalities/mitchell-sd
+409,South Dakota,SD,Pierre,https://www.hrc.org/resources/municipalities/pierre-sd
+410,South Dakota,SD,Rapid City,https://www.hrc.org/resources/municipalities/rapid-city-sd
+411,South Dakota,SD,Sioux Falls,https://www.hrc.org/resources/municipalities/sioux-falls-sd
+412,South Dakota,SD,Spearfish,https://www.hrc.org/resources/municipalities/spearfish-sd
+413,South Dakota,SD,Vermillion,https://www.hrc.org/resources/municipalities/vermillion-sd
+414,South Dakota,SD,Watertown,https://www.hrc.org/resources/municipalities/watertown-sd
+415,Tennessee,TN,Chattanooga,https://www.hrc.org/resources/municipalities/chattanooga-tn
+416,Tennessee,TN,Clarksville,https://www.hrc.org/resources/municipalities/clarksville-tn
+417,Tennessee,TN,Franklin,https://www.hrc.org/resources/municipalities/franklin-tn
+418,Tennessee,TN,Johnson City,https://www.hrc.org/resources/municipalities/johnson-city-tn
+419,Tennessee,TN,Knoxville,https://www.hrc.org/resources/municipalities/knoxville-tn
+420,Tennessee,TN,Memphis,https://www.hrc.org/resources/municipalities/memphis-tn
+421,Tennessee,TN,Murfreesboro,https://www.hrc.org/resources/municipalities/murfreesboro-tn
+422,Tennessee,TN,Nashville,https://www.hrc.org/resources/municipalities/nashville-tn
+423,Texas,TX,Amarillo,https://www.hrc.org/resources/municipalities/amarillo-tx
+424,Texas,TX,Arlington,https://www.hrc.org/resources/municipalities/arlington-tx
+425,Texas,TX,Austin,https://www.hrc.org/resources/municipalities/austin-tx
+426,Texas,TX,Brownsville,https://www.hrc.org/resources/municipalities/brownsville-tx
+427,Texas,TX,College Station,https://www.hrc.org/resources/municipalities/college-station-tx
+428,Texas,TX,Corpus Christi,https://www.hrc.org/resources/municipalities/corpus-christi-tx
+429,Texas,TX,Dallas,https://www.hrc.org/resources/municipalities/dallas-tx
+430,Texas,TX,Denton,https://www.hrc.org/resources/municipalities/denton-tx
+431,Texas,TX,El Paso,https://www.hrc.org/resources/municipalities/el-paso-tx
+432,Texas,TX,Fort Worth,https://www.hrc.org/resources/municipalities/fort-worth-tx
+433,Texas,TX,Garland,https://www.hrc.org/resources/municipalities/garland-tx
+434,Texas,TX,Grand Prairie,https://www.hrc.org/resources/municipalities/grand-prairie-tx
+435,Texas,TX,Houston,https://www.hrc.org/resources/municipalities/houston-tx
+436,Texas,TX,Irving,https://www.hrc.org/resources/municipalities/irving-tx
+437,Texas,TX,Killeen,https://www.hrc.org/resources/municipalities/killeen-tx
+438,Texas,TX,Laredo,https://www.hrc.org/resources/municipalities/laredo-tx
+439,Texas,TX,Lubbock,https://www.hrc.org/resources/municipalities/lubbock-tx
+440,Texas,TX,Mcallen,https://www.hrc.org/resources/municipalities/mcallen-tx
+441,Texas,TX,Mckinney,https://www.hrc.org/resources/municipalities/mckinney-tx
+442,Texas,TX,Mesquite,https://www.hrc.org/resources/municipalities/mesquite-tx
+443,Texas,TX,Pasadena,https://www.hrc.org/resources/municipalities/pasadena-tx
+444,Texas,TX,Plano,https://www.hrc.org/resources/municipalities/plano-tx
+445,Texas,TX,Round Rock,https://www.hrc.org/resources/municipalities/round-rock-tx
+446,Texas,TX,San Antonio,https://www.hrc.org/resources/municipalities/san-antonio-tx
+447,Texas,TX,Waco,https://www.hrc.org/resources/municipalities/waco-tx
+448,Utah,UT,Logan,https://www.hrc.org/resources/municipalities/logan-ut
+449,Utah,UT,Ogden City,https://www.hrc.org/resources/municipalities/ogden-city-ut
+450,Utah,UT,Orem,https://www.hrc.org/resources/municipalities/orem-ut
+451,Utah,UT,Park City,https://www.hrc.org/resources/municipalities/park-city-ut
+452,Utah,UT,Provo,https://www.hrc.org/resources/municipalities/provo-ut
+453,Utah,UT,Salt Lake City,https://www.hrc.org/resources/municipalities/salt-lake-city-ut
+454,Utah,UT,West Jordan,https://www.hrc.org/resources/municipalities/west-jordan-ut
+455,Utah,UT,West Valley City,https://www.hrc.org/resources/municipalities/west-valley-city-ut
+456,Vermont,VT,Barre,https://www.hrc.org/resources/municipalities/barre-vt
+457,Vermont,VT,Brattleboro,https://www.hrc.org/resources/municipalities/brattleboro-vt
+458,Vermont,VT,Burlington,https://www.hrc.org/resources/municipalities/burlington-vt
+459,Vermont,VT,Castleton,https://www.hrc.org/resources/municipalities/castleton-vt
+460,Vermont,VT,Essex,https://www.hrc.org/resources/municipalities/essex-vt
+461,Vermont,VT,Montpelier,https://www.hrc.org/resources/municipalities/montpelier-vt
+462,Vermont,VT,Rutland,https://www.hrc.org/resources/municipalities/rutland-vt
+463,Vermont,VT,South Burlington,https://www.hrc.org/resources/municipalities/south-burlington-vt
+464,Vermont,VT,Winooski,https://www.hrc.org/resources/municipalities/winooski-vt
+465,Virginia,VA,Alexandria,https://www.hrc.org/resources/municipalities/alexandria-va
+466,Virginia,VA,Arlington County,https://www.hrc.org/resources/municipalities/arlington-county-va
+467,Virginia,VA,Charlottesville,https://www.hrc.org/resources/municipalities/charlottesville-va
+468,Virginia,VA,Chesapeake,https://www.hrc.org/resources/municipalities/chesapeake-va
+469,Virginia,VA,Fairfax County,https://www.hrc.org/resources/municipalities/fairfax-county-va
+470,Virginia,VA,Hampton,https://www.hrc.org/resources/municipalities/hampton-va
+471,Virginia,VA,Newport News,https://www.hrc.org/resources/municipalities/newport-news-va
+472,Virginia,VA,Norfolk,https://www.hrc.org/resources/municipalities/norfolk-va
+473,Virginia,VA,Richmond,https://www.hrc.org/resources/municipalities/richmond-va
+474,Virginia,VA,Roanoke,https://www.hrc.org/resources/municipalities/roanoke-va
+475,Virginia,VA,Virginia Beach,https://www.hrc.org/resources/municipalities/virginia-beach-va
+476,Washington,WA,Bellevue,https://www.hrc.org/resources/municipalities/bellevue-wa
+477,Washington,WA,Bellingham,https://www.hrc.org/resources/municipalities/bellingham-wa
+478,Washington,WA,Kent,https://www.hrc.org/resources/municipalities/kent-wa
+479,Washington,WA,Olympia,https://www.hrc.org/resources/municipalities/olympia-wa
+480,Washington,WA,Pullman,https://www.hrc.org/resources/municipalities/pullman-wa
+481,Washington,WA,Seattle,https://www.hrc.org/resources/municipalities/seattle-wa
+482,Washington,WA,Spokane,https://www.hrc.org/resources/municipalities/spokane-wa
+483,Washington,WA,Tacoma,https://www.hrc.org/resources/municipalities/tacoma-wa
+484,Washington,WA,Vancouver,https://www.hrc.org/resources/municipalities/vancouver-wa
+485,Washington,WA,Vashon King County,https://www.hrc.org/resources/municipalities/vashon-king-county-wa
+486,West Virginia,WV,Charles Town,https://www.hrc.org/resources/municipalities/charles-town-wv
+487,West Virginia,WV,Charleston,https://www.hrc.org/resources/municipalities/charleston-wv
+488,West Virginia,WV,Huntington,https://www.hrc.org/resources/municipalities/huntington-wv
+489,West Virginia,WV,Lewisburg,https://www.hrc.org/resources/municipalities/lewisburg-wv
+490,West Virginia,WV,Morgantown,https://www.hrc.org/resources/municipalities/morgantown-wv
+491,West Virginia,WV,Parkersburg,https://www.hrc.org/resources/municipalities/parkersburg-wv
+492,West Virginia,WV,Wheeling,https://www.hrc.org/resources/municipalities/wheeling-wv
+493,Wisconsin,WI,Appleton,https://www.hrc.org/resources/municipalities/appleton-wi
+494,Wisconsin,WI,Green Bay,https://www.hrc.org/resources/municipalities/green-bay-wi
+495,Wisconsin,WI,Kenosha,https://www.hrc.org/resources/municipalities/kenosha-wi
+496,Wisconsin,WI,Madison,https://www.hrc.org/resources/municipalities/madison-wi
+497,Wisconsin,WI,Milwaukee,https://www.hrc.org/resources/municipalities/milwaukee-wi
+498,Wisconsin,WI,Oshkosh,https://www.hrc.org/resources/municipalities/oshkosh-wi
+499,Wisconsin,WI,Racine,https://www.hrc.org/resources/municipalities/racine-wi
+500,Wyoming,WY,Casper,https://www.hrc.org/resources/municipalities/casper-wy
+501,Wyoming,WY,Cheyenne,https://www.hrc.org/resources/municipalities/cheyenne-wy
+502,Wyoming,WY,Gillette,https://www.hrc.org/resources/municipalities/gillette-wy
+503,Wyoming,WY,Jackson,https://www.hrc.org/resources/municipalities/jackson-wy
+504,Wyoming,WY,Laramie,https://www.hrc.org/resources/municipalities/laramie-wy
+505,Wyoming,WY,Rock Springs,https://www.hrc.org/resources/municipalities/rock-springs-wy
+506,Wyoming,WY,Sheridan,https://www.hrc.org/resources/municipalities/sheridan-wy

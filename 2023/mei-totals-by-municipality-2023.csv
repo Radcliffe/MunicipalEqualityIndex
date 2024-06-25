@@ -1,0 +1,507 @@
+City Id,City,State,Non-Discrimination Laws,Municipality as Employer,Municipal Services,Law Enforcement,Leadership on LGBTQ+ Equality,Flex Points,Total Score
+1,Auburn,AL,0,22,0,0,0,2,24
+2,Birmingham,AL,30,28,12,22,8,0,100
+3,Florence,AL,0,0,0,12,0,0,12
+4,Hoover,AL,0,0,0,12,0,0,12
+5,Huntsville,AL,0,14,0,0,0,0,14
+6,Mobile,AL,10,0,7,12,0,2,31
+7,Montgomery,AL,0,14,5,10,7,4,40
+8,Tuscaloosa,AL,10,26,0,12,2,2,52
+9,Anchorage,AK,30,20,7,12,8,23,100
+10,Fairbanks,AK,30,8,5,12,7,0,62
+11,Homer,AK,30,0,0,0,5,2,37
+12,Juneau,AK,30,22,10,22,8,8,100
+13,Ketchikan,AK,30,14,0,0,6,30,80
+14,Sitka,AK,30,0,0,0,8,30,68
+15,Wasilla,AK,30,0,0,12,0,0,42
+16,Avondale,AZ,10,14,5,22,3,3,57
+17,Chandler,AZ,30,24,12,22,4,8,100
+18,Flagstaff,AZ,30,22,10,22,7,9,100
+19,Gilbert,AZ,10,16,12,22,6,11,77
+20,Glendale,AZ,30,22,10,22,8,6,98
+21,Mesa,AZ,30,22,10,22,8,8,100
+22,Peoria,AZ,10,9,5,22,0,10,56
+23,Phoenix,AZ,30,28,12,22,8,0,100
+24,Scottsdale,AZ,30,26,10,22,8,4,100
+25,Tempe,AZ,30,28,12,22,8,0,100
+26,Tucson,AZ,30,26,7,22,8,7,100
+27,Conway,AR,10,14,0,12,2,0,38
+28,Eureka Springs,AR,27,14,0,0,6,3,50
+29,Fayetteville,AR,0,17,7,12,8,5,49
+30,Fort Smith,AR,0,14,0,12,0,2,28
+31,Jonesboro,AR,0,0,0,0,0,0,0
+32,Little Rock,AR,10,20,5,22,8,7,72
+33,North Little Rock,AR,0,0,0,0,0,0,0
+34,Springdale,AR,0,7,0,12,0,0,19
+35,Anaheim,CA,30,20,5,12,5,7,79
+36,Bakersfield,CA,30,7,5,12,0,4,58
+37,Berkeley,CA,30,25,12,17,8,8,100
+38,Brisbane,CA,30,13,0,12,0,4,59
+39,Cathedral City,CA,30,28,5,22,8,7,100
+40,Chula Vista,CA,30,20,10,22,7,11,100
+41,Concord,CA,30,26,5,12,2,25,100
+42,Corona,CA,30,13,0,12,0,9,64
+43,Elk Grove,CA,30,26,5,12,5,4,82
+44,Escondido,CA,30,13,0,22,0,7,72
+45,Fontana,CA,30,6,0,12,0,4,52
+46,Fremont,CA,30,22,12,12,5,16,97
+47,Fresno,CA,30,8,0,12,5,12,67
+48,Fullerton,CA,30,20,5,12,0,6,73
+49,Garden Grove,CA,30,7,5,12,2,9,65
+50,Glendale,CA,30,20,5,12,3,5,75
+51,Guerneville (Sonoma County),CA,30,0,7,0,0,4,41
+52,Hayward,CA,30,23,7,12,3,4,79
+53,Huntington Beach,CA,30,7,10,22,2,5,76
+54,Irvine,CA,30,28,12,22,8,0,100
+55,Lancaster,CA,30,10,12,12,1,4,69
+56,Long Beach,CA,30,28,12,22,8,0,100
+57,Los Angeles,CA,30,26,12,22,8,2,100
+58,Modesto,CA,30,7,5,12,1,5,60
+59,Moreno Valley,CA,30,14,0,12,0,4,60
+60,Oakland,CA,30,24,10,22,8,6,100
+61,Oceanside,CA,30,26,5,22,7,10,100
+62,Ontario,CA,30,6,0,12,0,4,52
+63,Orange,CA,30,20,5,12,0,4,71
+64,Oxnard,CA,30,7,5,12,0,6,60
+65,Palm Desert,CA,30,24,5,22,5,11,97
+66,Palm Springs,CA,30,28,10,22,8,2,100
+67,Palmdale,CA,30,28,12,12,3,15,100
+68,Pasadena,CA,30,25,10,12,6,17,100
+69,Pomona,CA,30,23,0,12,2,9,76
+70,Rancho Cucamonga,CA,30,20,0,12,0,5,67
+71,Rancho Mirage,CA,30,26,5,22,7,10,100
+72,Richmond,CA,30,19,7,22,7,11,96
+73,Riverside,CA,30,28,10,22,5,5,100
+74,Sacramento,CA,30,28,5,22,6,9,100
+75,Salinas,CA,30,19,0,12,0,4,65
+76,San Bernardino,CA,30,7,0,12,0,4,53
+77,San Diego,CA,30,28,12,22,8,0,100
+78,San Francisco,CA,30,28,7,22,8,5,100
+79,San Jose,CA,30,26,7,22,8,7,100
+80,Santa Ana,CA,30,26,5,12,6,6,85
+81,Santa Clarita,CA,30,13,5,12,0,9,69
+82,Santa Monica,CA,30,28,10,22,8,2,100
+83,Santa Rosa,CA,30,22,5,12,2,7,78
+84,Signal Hill,CA,30,20,10,22,5,13,100
+85,Stockton,CA,30,14,0,22,1,4,71
+86,Sunnyvale,CA,30,20,12,12,6,18,98
+87,Thousand Oaks,CA,30,20,0,12,1,5,68
+88,Torrance,CA,30,6,5,12,0,4,57
+89,Vallejo,CA,30,23,5,12,5,7,82
+90,Visalia,CA,30,14,5,22,3,4,78
+91,West Hollywood,CA,30,28,12,12,8,10,100
+92,Aspen,CO,30,28,0,22,4,16,100
+93,Aurora,CO,30,20,5,22,2,5,84
+94,Boulder,CO,30,20,12,22,8,8,100
+95,Colorado Springs,CO,30,19,5,22,2,3,81
+96,Denver,CO,30,26,12,22,8,2,100
+97,Fort Collins,CO,30,28,12,22,8,0,100
+98,Lakewood,CO,30,14,0,12,0,11,67
+99,Littleton,CO,30,22,0,12,2,2,68
+100,Bridgeport,CT,24,0,0,12,4,2,42
+101,Fairfield,CT,24,7,0,12,1,2,46
+102,Hartford,CT,30,22,10,22,7,9,100
+103,New Britain,CT,30,14,7,22,8,10,91
+104,New Haven,CT,30,20,7,22,4,10,93
+105,Norwalk,CT,30,22,7,22,7,12,100
+106,Stamford,CT,30,28,12,22,8,0,100
+107,Storrs (Mansfield),CT,24,14,5,12,0,6,61
+108,Waterbury,CT,29,20,7,12,1,4,73
+109,Bethany Beach,DE,28,13,0,12,0,2,55
+110,Dover,DE,28,17,5,12,0,2,64
+111,Middletown,DE,28,0,0,0,0,2,30
+112,Milford,DE,28,20,5,12,5,2,72
+113,Newark,DE,28,14,0,12,1,2,57
+114,Rehoboth Beach,DE,30,14,0,12,1,12,69
+115,Smyrna,DE,28,0,0,12,0,3,43
+116,Wilmington,DE,30,17,12,12,6,11,88
+117,Cape Coral,FL,27,15,0,12,6,1,61
+118,Coral Gables,FL,30,21,12,22,4,11,100
+119,Daytona Beach,FL,30,0,0,0,0,24,54
+120,Fort Lauderdale,FL,30,23,12,22,8,5,100
+121,Gainesville,FL,30,17,12,22,8,11,100
+122,Hialeah,FL,30,7,7,12,0,20,76
+123,Hollywood,FL,30,23,12,22,6,7,100
+124,Jacksonville,FL,30,14,7,22,6,19,98
+125,Miami Shores,FL,30,21,12,22,7,8,100
+126,Miami,FL,30,16,12,22,8,12,100
+127,Oakland Park,FL,30,22,12,22,8,6,100
+128,Orlando,FL,30,23,12,22,8,5,100
+129,Pembroke Pines,FL,30,20,12,12,5,21,100
+130,Port Saint Lucie,FL,27,16,5,22,5,0,75
+131,St. Petersburg,FL,30,23,12,22,8,5,100
+132,Tallahassee,FL,30,17,10,22,0,21,100
+133,Tampa,FL,30,21,12,22,8,7,100
+134,Wilton Manors,FL,30,23,12,22,8,5,100
+135,Athens Clarke County,GA,30,0,5,0,0,0,35
+136,Atlanta,GA,30,28,12,22,8,0,100
+137,Augusta Richmond County,GA,30,0,5,0,0,0,35
+138,Avondale Estates,GA,30,14,0,0,4,0,48
+139,Columbus,GA,0,22,10,22,7,2,63
+140,Decatur,GA,30,28,10,22,8,2,100
+141,North Druid Hills (Dekalb County),GA,30,0,0,0,0,0,30
+142,Roswell,GA,5,0,0,0,0,0,5
+143,Sandy Springs,GA,5,8,0,12,8,0,33
+144,Savannah,GA,30,22,5,10,8,5,80
+145,Hawaii County,HI,28,0,0,0,0,2,30
+146,Honolulu County,HI,30,0,0,0,0,20,50
+147,Kalawao County,HI,28,0,0,0,0,2,30
+148,Kauai County,HI,28,0,0,0,0,2,30
+149,Maui County,HI,28,0,0,0,0,2,30
+150,Boise,ID,27,17,0,22,5,2,73
+151,Coeur d'Alene,ID,27,14,5,12,3,0,61
+152,Idaho Falls,ID,22,14,0,12,3,0,51
+153,Meridian,ID,22,14,0,12,2,0,50
+154,Moscow,ID,27,14,5,12,3,1,62
+155,Nampa,ID,0,0,0,12,1,0,13
+156,Pocatello,ID,27,14,5,12,0,0,58
+157,Aurora,IL,30,20,12,22,6,10,100
+158,Carbondale,IL,30,21,10,0,8,18,87
+159,Champaign,IL,30,22,12,22,6,8,100
+160,Chicago,IL,30,26,12,22,8,2,100
+161,Joliet,IL,30,7,0,22,2,4,65
+162,Naperville,IL,30,22,12,22,1,13,100
+163,Peoria,IL,30,18,7,12,0,22,89
+164,Rockford,IL,30,28,10,22,8,2,100
+165,Springfield,IL,30,13,7,12,5,20,87
+166,Bloomington,IN,30,23,12,22,8,5,100
+167,Evansville,IN,30,20,12,22,4,12,100
+168,Fort Wayne,IN,10,10,7,12,1,0,40
+169,Hammond,IN,30,14,7,12,8,0,71
+170,Indianapolis,IN,30,20,7,12,8,3,80
+171,Muncie,IN,30,14,5,12,8,0,69
+172,South Bend,IN,28,20,7,12,7,0,74
+173,Terre Haute,IN,30,21,10,22,2,0,85
+174,West Lafayette,IN,30,21,12,0,7,10,80
+175,Ames,IA,30,23,10,22,6,9,100
+176,Cedar Rapids,IA,30,28,12,22,8,0,100
+177,Davenport,IA,30,24,12,22,8,4,100
+178,Des Moines,IA,30,28,12,22,8,0,100
+179,Dubuque,IA,30,24,12,22,8,4,100
+180,Iowa City,IA,30,28,12,22,8,0,100
+181,Sioux City,IA,30,20,7,22,4,17,100
+182,Waterloo,IA,30,14,12,22,1,21,100
+183,West Des Moines,IA,24,28,12,22,8,6,100
+184,Emporia,KS,30,20,7,12,0,24,93
+185,Hutchinson,KS,30,14,5,12,0,0,61
+186,Kansas City,KS,30,18,5,0,6,34,93
+187,Lawrence,KS,30,28,12,22,8,0,100
+188,Manhattan,KS,30,14,7,22,8,19,100
+189,Olathe,KS,30,14,12,12,5,25,98
+190,Overland Park,KS,30,28,12,17,8,5,100
+191,Topeka,KS,30,15,10,22,8,15,100
+192,Wichita,KS,30,28,7,22,6,7,100
+193,Berea,KY,20,14,5,12,4,2,57
+194,Bowling Green,KY,20,0,5,12,3,0,40
+195,Covington,KY,30,22,12,22,8,6,100
+196,Frankfort,KY,30,16,7,12,4,20,89
+197,Lexington,KY,30,28,12,22,8,0,100
+198,Louisville,KY,30,28,12,22,8,0,100
+199,Morehead,KY,30,14,5,12,0,14,75
+200,Owensboro,KY,20,0,5,12,1,0,38
+201,Alexandria,LA,0,0,12,22,3,4,41
+202,Baton Rouge,LA,0,0,0,22,3,4,29
+203,Lafayette,LA,0,14,0,0,0,0,14
+204,Lake Charles,LA,0,0,5,12,0,0,17
+205,Metairie,LA,0,0,0,0,0,0,0
+206,Monroe,LA,0,0,0,12,0,0,12
+207,New Orleans,LA,27,21,12,22,6,5,93
+208,Shreveport,LA,27,14,7,12,3,0,63
+209,Auburn,ME,30,13,0,0,1,7,51
+210,Augusta,ME,30,7,0,12,2,4,55
+211,Bangor,ME,30,13,5,12,3,31,94
+212,Brunswick,ME,30,14,0,12,0,11,67
+213,Lewiston,ME,30,17,0,12,1,6,66
+214,Orono,ME,30,0,0,0,0,16,46
+215,Portland,ME,30,28,0,12,8,20,98
+216,Scarborough,ME,30,14,0,12,0,13,69
+217,South Portland,ME,30,16,5,12,4,19,86
+218,Billings,MT,0,2,5,12,1,0,20
+219,Bozeman,MT,30,23,0,12,7,3,75
+220,Butte-Silver Bow,MT,30,6,0,0,0,0,36
+221,Great Falls,MT,0,1,0,12,0,0,13
+222,Helena,MT,27,17,0,12,3,0,59
+223,Kalispell,MT,0,1,0,12,0,0,13
+224,Missoula,MT,30,23,5,22,8,11,99
+225,Whitefish,MT,30,7,0,12,8,1,58
+226,Bellevue,NE,20,14,0,12,0,0,46
+227,Fremont,NE,20,0,0,12,0,0,32
+228,Grand Island,NE,20,14,0,12,1,0,47
+229,Kearney,NE,20,0,0,12,0,0,32
+230,Lincoln,NE,20,17,7,22,8,8,82
+231,North Platte,NE,20,0,0,12,0,0,32
+232,Omaha,NE,30,20,7,22,6,15,100
+233,Carson City,NV,28,20,0,0,0,4,52
+234,Elko,NV,28,6,0,12,0,4,50
+235,Enterprise (Clark County),NV,28,0,0,0,0,6,34
+236,Henderson,NV,30,28,3,22,7,10,100
+237,Las Vegas,NV,28,28,5,22,8,9,100
+238,Mesquite,NV,28,14,0,0,1,4,47
+239,North Las Vegas,NV,28,14,5,12,0,4,63
+240,Paradise (Clark County),NV,28,0,0,0,0,6,34
+241,Reno,NV,28,28,10,22,8,4,100
+242,Sparks,NV,28,14,0,12,0,4,58
+243,Concord,NH,30,25,0,12,0,12,79
+244,Derry,NH,30,14,0,12,0,2,58
+245,Dover,NH,30,14,5,22,5,4,80
+246,Durham,NH,30,22,12,22,8,6,100
+247,Keene,NH,30,14,5,12,4,2,67
+248,Manchester,NH,30,20,0,22,7,6,85
+249,Nashua,NH,30,21,0,12,6,6,75
+250,Plymouth,NH,30,0,0,12,0,2,44
+251,Portsmouth,NH,30,16,5,22,7,9,89
+252,Rochester,NH,30,7,0,12,0,4,53
+253,Asbury Park,NJ,30,23,7,22,7,11,100
+254,Elizabeth,NJ,30,20,12,12,0,2,76
+255,Hoboken,NJ,30,26,5,22,8,9,100
+256,Jersey City,NJ,30,26,12,22,8,2,100
+257,Lambertville,NJ,30,20,5,22,8,10,95
+258,Montclair,NJ,30,20,12,22,8,8,100
+259,New Brunswick,NJ,30,7,10,12,6,2,67
+260,Newark,NJ,30,13,0,12,8,2,65
+261,Ocean Grove (Neptune),NJ,30,14,7,22,4,7,84
+262,Paterson,NJ,30,14,0,12,4,2,62
+263,Princeton,NJ,30,19,12,22,8,9,100
+264,Trenton,NJ,30,22,12,12,7,6,89
+265,Albuquerque,NM,30,22,12,22,5,9,100
+266,Eldorado At Santa Fe,NM,30,0,0,0,0,12,42
+267,Farmington,NM,30,2,7,22,5,4,70
+268,Gallup,NM,30,7,0,12,0,4,53
+269,Las Cruces,NM,30,16,5,22,5,22,100
+270,Rio Rancho,NM,30,14,0,12,0,4,60
+271,Roswell,NM,30,14,0,0,0,4,48
+272,Santa Fe,NM,30,20,0,0,8,38,96
+273,Albany,NY,30,23,12,22,8,5,100
+274,Brookhaven,NY,30,10,5,12,0,43,100
+275,Buffalo,NY,30,26,12,12,8,12,100
+276,Ithaca,NY,30,27,10,22,8,3,100
+277,New York,NY,30,26,12,22,8,2,100
+278,Northwest Harbor (East Hampton),NY,30,3,7,0,0,31,71
+279,Rochester,NY,30,28,5,22,8,7,100
+280,Syracuse,NY,30,28,12,22,8,0,100
+281,White Plains,NY,30,22,12,22,6,8,100
+282,Yonkers,NY,30,26,12,22,7,3,100
+283,Carrboro,NC,27,21,12,22,8,10,100
+284,Cary,NC,20,14,5,12,8,5,64
+285,Chapel Hill,NC,29,23,10,22,8,8,100
+286,Charlotte,NC,24,22,12,22,8,7,95
+287,Durham,NC,22,21,12,22,8,6,91
+288,Fayetteville,NC,0,15,7,12,0,0,34
+289,Greensboro,NC,30,23,12,22,8,5,100
+290,Raleigh,NC,20,21,7,22,7,11,88
+291,Wilmington,NC,7,17,10,22,5,5,66
+292,Winston Salem,NC,22,22,7,22,8,9,90
+293,Bismarck,ND,30,14,5,12,5,7,73
+294,Fargo,ND,27,7,10,22,3,7,76
+295,Grand Forks,ND,30,14,0,22,7,15,88
+296,Jamestown,ND,27,7,0,0,0,0,34
+297,Mandan,ND,30,14,0,12,0,7,63
+298,Minot,ND,27,0,5,12,0,2,46
+299,West Fargo,ND,27,14,0,0,0,0,41
+300,Akron,OH,30,22,12,22,8,6,100
+301,Cincinnati,OH,30,28,10,22,8,2,100
+302,Cleveland,OH,30,27,12,22,8,1,100
+303,Columbus,OH,30,28,12,22,8,0,100
+304,Dayton,OH,30,26,12,22,7,3,100
+305,Dublin,OH,30,28,12,22,8,0,100
+306,Lakewood,OH,30,20,12,22,8,8,100
+307,Toledo,OH,30,22,7,22,8,5,94
+308,Broken Arrow,OK,0,0,0,12,0,0,12
+309,Edmond,OK,0,14,0,12,2,0,28
+310,Lawton,OK,0,0,5,12,0,0,17
+311,Moore,OK,0,14,0,0,0,0,14
+312,Norman,OK,30,22,12,22,8,6,100
+313,Oklahoma City,OK,10,15,12,22,7,9,75
+314,Stillwater,OK,0,14,5,22,1,0,42
+315,Tulsa,OK,10,16,12,22,8,10,78
+316,Ashland,OR,30,7,0,12,0,12,61
+317,Bend,OR,30,17,0,12,0,32,91
+318,Corvallis,OR,30,14,5,12,2,37,100
+319,Eugene,OR,30,25,12,22,7,4,100
+320,Gresham,OR,30,23,0,12,0,4,69
+321,Hillsboro,OR,30,14,0,12,4,32,92
+322,Portland,OR,30,28,10,22,8,2,100
+323,Salem,OR,30,20,12,22,6,10,100
+324,Annapolis,MD,30,18,12,22,4,14,100
+325,Baltimore,MD,30,22,12,22,8,6,100
+326,Bowie,MD,30,8,7,12,0,19,76
+327,College Park,MD,30,26,7,22,5,10,100
+328,Columbia,MD,30,0,7,0,0,34,71
+329,Frederick,MD,30,28,12,22,7,1,100
+330,Gaithersburg,MD,30,22,12,22,8,6,100
+331,Hagerstown,MD,30,20,0,22,1,10,83
+332,Rockville,MD,30,28,12,22,8,0,100
+333,Towson (Baltimore County),MD,30,0,7,0,0,32,69
+334,Amherst,MA,30,14,7,12,6,31,100
+335,Arlington,MA,30,26,12,22,8,2,100
+336,Boston,MA,30,28,12,22,8,0,100
+337,Cambridge,MA,30,28,12,22,8,0,100
+338,Lowell,MA,30,20,5,22,8,6,91
+339,Northampton,MA,30,20,12,22,8,8,100
+340,Provincetown,MA,30,26,7,22,8,7,100
+341,Salem,MA,30,28,12,22,8,0,100
+342,Springfield,MA,30,17,10,12,6,9,84
+343,Worcester,MA,30,28,7,22,7,6,100
+344,Ann Arbor,MI,30,28,12,22,8,0,100
+345,Detroit,MI,30,28,12,22,8,0,100
+346,East Lansing,MI,30,20,12,22,8,8,100
+347,Ferndale,MI,30,28,5,22,8,7,100
+348,Grand Rapids,MI,30,22,12,22,8,6,100
+349,Kalamazoo,MI,30,28,5,12,5,20,100
+350,Lansing,MI,30,20,7,22,6,15,100
+351,Pleasant Ridge,MI,30,14,5,0,7,38,94
+352,Sterling Heights,MI,30,28,10,22,7,3,100
+353,Traverse City,MI,30,20,5,22,5,18,100
+354,Warren,MI,30,0,0,12,5,14,61
+355,Bloomington,MN,24,18,10,22,5,8,87
+356,Duluth,MN,30,26,12,22,8,2,100
+357,Eden Prairie,MN,24,12,5,12,0,2,55
+358,Minneapolis,MN,30,26,12,12,8,12,100
+359,Minnetonka,MN,24,14,0,12,0,2,52
+360,Rochester,MN,24,19,7,12,4,7,73
+361,Saint Cloud,MN,24,7,5,12,0,4,52
+362,Saint Paul,MN,30,28,12,22,8,0,100
+363,Bay St. Louis,MS,0,0,0,0,0,0,0
+364,Biloxi,MS,0,14,0,12,0,0,26
+365,Gulfport,MS,0,0,0,12,0,0,12
+366,Hattiesburg,MS,0,14,5,10,4,3,36
+367,Jackson,MS,30,16,12,10,6,5,79
+368,Ocean Springs,MS,0,0,0,0,0,0,0
+369,Oxford,MS,0,14,0,0,1,0,15
+370,Southaven,MS,0,0,0,12,0,0,12
+371,Starkville,MS,0,14,5,12,1,0,32
+372,Cape Girardeau,MO,0,0,0,12,0,0,12
+373,Columbia,MO,29,23,12,22,8,6,100
+374,Independence,MO,0,0,5,12,0,0,17
+375,Jefferson City,MO,0,17,10,22,0,2,51
+376,Kansas City,MO,26,23,12,22,8,9,100
+377,Springfield,MO,0,17,10,22,8,4,61
+378,St. Charles,MO,20,14,10,22,6,0,72
+379,St. Louis,MO,30,21,12,22,8,7,100
+380,Allentown,PA,30,28,12,10,8,12,100
+381,Carlisle,PA,30,25,12,22,8,3,100
+382,Erie,PA,30,26,12,22,8,2,100
+383,Harrisburg,PA,30,26,10,22,8,4,100
+384,New Hope,PA,30,15,12,22,8,13,100
+385,Philadelphia,PA,30,26,12,22,8,2,100
+386,Pittsburgh,PA,30,28,12,12,8,10,100
+387,Reading,PA,30,20,12,22,5,11,100
+388,State College,PA,30,28,12,22,8,0,100
+389,Wilkes-Barre,PA,30,14,12,12,8,24,100
+390,Cranston,RI,28,20,0,12,1,4,65
+391,East Providence,RI,28,20,5,12,2,6,73
+392,Kingston (South Kingstown),RI,28,14,0,12,0,4,58
+393,Narragansett,RI,28,20,0,0,0,4,52
+394,Newport,RI,28,16,0,22,6,7,79
+395,Pawtucket,RI,28,14,0,12,6,4,64
+396,Providence,RI,30,28,12,22,8,0,100
+397,Warwick,RI,28,14,0,22,4,4,72
+398,Charleston,SC,20,14,5,22,8,2,71
+399,Clemson,SC,0,22,5,10,7,1,45
+400,Columbia,SC,30,20,10,22,8,2,92
+401,Greenville,SC,0,20,10,22,6,6,64
+402,Mount Pleasant,SC,20,14,0,12,0,0,46
+403,Myrtle Beach,SC,30,20,10,22,8,9,99
+404,North Charleston,SC,10,7,5,22,4,2,50
+405,Rock Hill,SC,0,0,10,12,0,0,22
+406,Aberdeen,SD,0,0,0,12,0,0,12
+407,Brookings,SD,30,26,12,22,8,2,100
+408,Mitchell,SD,0,0,0,12,0,0,12
+409,Pierre,SD,0,0,0,0,0,0,0
+410,Rapid City,SD,0,0,7,12,0,2,21
+411,Sioux Falls,SD,0,15,12,22,6,2,57
+412,Spearfish,SD,0,14,0,12,0,0,26
+413,Vermillion,SD,25,14,12,22,7,2,82
+414,Watertown,SD,0,14,0,12,1,0,27
+415,Chattanooga,TN,6,20,10,12,8,0,56
+416,Clarksville,TN,10,14,5,12,4,0,45
+417,Franklin,TN,0,7,0,12,0,0,19
+418,Johnson City,TN,0,0,0,12,0,0,12
+419,Knoxville,TN,0,20,5,22,6,1,54
+420,Memphis,TN,6,22,10,22,5,11,76
+421,Murfreesboro,TN,0,0,0,12,0,0,12
+422,Nashville,TN,0,19,12,22,8,16,77
+423,Amarillo,TX,10,14,5,12,0,2,43
+424,Arlington,TX,30,22,10,22,8,8,100
+425,Austin,TX,30,23,12,22,8,5,100
+426,Brownsville,TX,10,14,5,12,3,2,46
+427,College Station,TX,10,0,0,12,0,0,22
+428,Corpus Christi,TX,10,14,7,22,3,2,58
+429,Dallas,TX,30,23,7,22,8,10,100
+430,Denton,TX,30,23,10,22,8,7,100
+431,El Paso,TX,30,20,7,12,3,7,79
+432,Fort Worth,TX,30,20,12,22,7,9,100
+433,Garland,TX,20,0,0,12,0,0,32
+434,Grand Prairie,TX,10,16,0,12,0,2,40
+435,Houston,TX,10,23,5,22,8,5,73
+436,Irving,TX,10,16,5,22,6,2,61
+437,Killeen,TX,10,7,0,12,0,0,29
+438,Laredo,TX,10,0,0,12,0,0,22
+439,Lubbock,TX,10,14,0,12,0,0,36
+440,Mcallen,TX,10,7,0,12,0,0,29
+441,Mckinney,TX,10,14,0,12,0,0,36
+442,Mesquite,TX,10,14,5,12,3,0,44
+443,Pasadena,TX,10,0,0,12,0,4,26
+444,Plano,TX,30,20,0,12,4,8,74
+445,Round Rock,TX,10,0,0,12,0,0,22
+446,San Antonio,TX,30,23,5,22,8,12,100
+447,Waco,TX,10,16,5,22,1,2,56
+448,Logan,UT,30,14,0,12,0,10,66
+449,Ogden City,UT,30,14,5,12,3,12,76
+450,Orem,UT,20,14,0,12,0,2,48
+451,Park City,UT,30,22,5,22,8,13,100
+452,Provo,UT,20,14,0,0,4,2,40
+453,Salt Lake City,UT,30,26,10,22,8,4,100
+454,West Jordan,UT,30,0,0,12,2,8,52
+455,West Valley City,UT,30,14,0,12,0,28,84
+456,Barre,VT,30,0,0,12,0,4,46
+457,Brattleboro,VT,30,14,0,12,0,4,60
+458,Burlington,VT,30,20,5,22,5,12,94
+459,Castleton,VT,30,14,0,0,0,4,48
+460,Essex,VT,30,14,0,12,0,4,60
+461,Montpelier,VT,30,14,0,12,4,4,64
+462,Rutland,VT,30,14,0,12,1,6,63
+463,South Burlington,VT,30,14,0,12,1,4,61
+464,Winooski,VT,30,14,0,12,0,6,62
+465,Alexandria,VA,30,26,12,22,8,2,100
+466,Arlington County,VA,30,0,7,0,0,33,70
+467,Charlottesville,VA,30,20,12,22,6,10,100
+468,Chesapeake,VA,30,22,5,22,2,2,83
+469,Fairfax County,VA,30,0,7,0,0,2,39
+470,Hampton,VA,30,25,10,22,5,8,100
+471,Newport News,VA,30,14,5,12,3,2,66
+472,Norfolk,VA,30,22,5,22,6,12,97
+473,Richmond,VA,30,27,12,22,8,1,100
+474,Roanoke,VA,30,28,8,22,5,7,100
+475,Virginia Beach,VA,30,28,12,22,8,0,100
+476,Bellevue,WA,30,28,12,22,5,3,100
+477,Bellingham,WA,30,14,0,12,3,3,62
+478,Kent,WA,30,21,5,22,2,20,100
+479,Olympia,WA,30,28,10,22,8,2,100
+480,Pullman,WA,30,7,5,12,0,12,66
+481,Seattle,WA,30,26,12,22,8,2,100
+482,Spokane,WA,30,20,5,12,1,32,100
+483,Tacoma,WA,30,26,7,12,8,17,100
+484,Vancouver,WA,30,16,5,12,6,10,79
+485,Vashon (King County),WA,30,0,7,0,0,32,69
+486,Charles Town,WV,30,7,0,0,8,0,45
+487,Charleston,WV,30,16,12,22,8,4,92
+488,Huntington,WV,30,20,12,22,8,8,100
+489,Lewisburg,WV,30,0,5,0,8,0,43
+490,Morgantown,WV,30,22,12,22,8,6,100
+491,Parkersburg,WV,0,0,0,12,1,0,13
+492,Wheeling,WV,30,15,7,12,8,4,76
+493,Appleton,WI,30,24,5,22,7,12,100
+494,Green Bay,WI,30,26,10,22,8,4,100
+495,Kenosha,WI,20,14,0,12,8,2,56
+496,Madison,WI,30,28,12,22,8,0,100
+497,Milwaukee,WI,30,26,12,22,8,2,100
+498,Oshkosh,WI,25,21,10,22,3,0,81
+499,Racine,WI,30,26,12,22,8,2,100
+500,Casper,WY,30,16,10,10,4,2,72
+501,Cheyenne,WY,0,14,0,12,2,0,28
+502,Gillette,WY,0,7,0,12,3,0,22
+503,Jackson,WY,30,14,4,10,4,0,62
+504,Laramie,WY,30,20,5,22,8,4,89
+505,Rock Springs,WY,0,0,0,12,0,0,12
+506,Sheridan,WY,0,0,0,12,0,0,12
